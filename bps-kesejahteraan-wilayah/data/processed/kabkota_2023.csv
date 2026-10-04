@@ -1,0 +1,515 @@
+kode_kabkota,kode_prov,nama_kabkota,provinsi,provinsi_analisis,kota,ipm,jml_miskin
+93.01,93,Merauke,Papua Selatan,Papua,False,72.19,24.03
+65.02,65,Malinau,Kalimantan Utara,Kalimantan Utara,False,73.19,5.95
+64.08,64,Kutai Timur,Kalimantan Timur,Kalimantan Timur,False,74.98,37.04
+61.06,61,Kapuas Hulu,Kalimantan Barat,Kalimantan Barat,False,67.67,22.59
+61.04,61,Ketapang,Kalimantan Barat,Kalimantan Barat,False,68.68,49.95
+91.20,91,Mamberamo Raya,Papua,Papua,False,54.08,7.56
+64.02,64,Kutai Kartanegara,Kalimantan Timur,Kalimantan Timur,False,75.3,60.86
+93.04,93,Asmat,Papua Selatan,Papua,False,53.19,25.58
+93.03,93,Mappi,Papua Selatan,Papua,False,60.57,26.82
+62.12,62,Murung Raya,Kalimantan Tengah,Kalimantan Tengah,False,69.42,7.81
+93.02,93,Boven Digoel,Papua Selatan,Papua,False,63.46,14.25
+61.05,61,Sintang,Kalimantan Barat,Kalimantan Barat,False,68.67,35.49
+64.03,64,Berau,Kalimantan Timur,Kalimantan Timur,False,76.21,13.26
+62.06,62,Katingan,Kalimantan Tengah,Kalimantan Tengah,False,70.28,8.95
+92.06,92,Teluk Bintuni,Papua Barat,Papua Barat,False,66.0,19.82
+94.04,94,Mimika,Papua Tengah,Papua,False,75.91,30.31
+64.11,64,Mahakam Ulu,Kalimantan Timur,Kalimantan Timur,False,69.59,3.06
+16.02,16,Ogan Komering Ilir,Sumatera Selatan,Sumatera Selatan,False,68.65,114.48
+62.03,62,Kapuas,Kalimantan Tengah,Kalimantan Tengah,False,70.75,19.19
+92.08,92,Kaimana,Papua Barat,Papua Barat,False,66.72,9.9
+62.02,62,Kotawaringin Timur,Kalimantan Tengah,Kalimantan Tengah,False,72.21,26.57
+95.02,95,Pegunungan Bintang,Papua Pegunungan,Papua,False,48.18,23.32
+62.07,62,Seruyan,Kalimantan Tengah,Kalimantan Tengah,False,68.68,15.71
+95.03,95,Yahukimo,Papua Pegunungan,Papua,False,51.19,72.14
+16.06,16,Musi Banyuasin,Sumatera Selatan,Sumatera Selatan,False,69.17,101.63
+91.03,91,Jayapura,Papua,Papua,False,73.5,14.91
+91.10,91,Sarmi,Papua,Papua,False,65.8,5.45
+65.01,65,Bulungan,Kalimantan Utara,Kalimantan Utara,False,72.72,12.19
+64.07,64,Kutai Barat,Kalimantan Timur,Kalimantan Timur,False,73.72,14.69
+65.03,65,Nunukan,Kalimantan Utara,Kalimantan Utara,False,67.7,11.88
+14.04,14,Indragiri Hilir,Riau,Riau,False,67.98,40.86
+14.05,14,Pelalawan,Riau,Riau,False,73.59,45.3
+61.03,61,Sanggau,Kalimantan Barat,Kalimantan Barat,False,67.77,23.34
+16.07,16,Banyuasin,Sumatera Selatan,Sumatera Selatan,False,68.65,85.88
+91.04,91,Nabire,Papua Tengah,Papua,False,70.84,34.83
+92.09,92,Tambrauw,Papua Barat Daya,Papua Barat,False,55.55,5.13
+91.15,91,Waropen,Papua,Papua,False,66.46,9.86
+64.01,64,Paser,Kalimantan Timur,Kalimantan Timur,False,74.14,26.39
+14.01,14,Kampar,Riau,Riau,False,74.24,63.84
+61.10,61,Melawi,Kalimantan Barat,Kalimantan Barat,False,67.76,24.18
+62.05,62,Barito Utara,Kalimantan Tengah,Kalimantan Tengah,False,71.84,7.14
+92.03,92,Fak Fak,Papua Barat,Papua Barat,False,69.72,17.84
+62.11,62,Pulang Pisau,Kalimantan Tengah,Kalimantan Tengah,False,69.6,5.92
+62.01,62,Kotawaringin Barat,Kalimantan Tengah,Kalimantan Tengah,False,74.04,13.44
+63.02,63,Kotabaru,Kalimantan Selatan,Kalimantan Selatan,False,70.18,15.32
+62.10,62,Gunung Mas,Kalimantan Tengah,Kalimantan Tengah,False,72.09,6.55
+14.07,14,Rokan Hilir,Riau,Riau,False,70.78,53.04
+91.11,91,Keerom,Papua,Papua,False,68.08,9.32
+72.12,72,Morowali Utara,Sulawesi Tengah,Sulawesi Tengah,False,69.73,17.66
+14.03,14,Bengkalis,Riau,Riau,False,74.97,36.1
+61.12,61,Kubu Raya,Kalimantan Barat,Kalimantan Barat,False,69.6,25.33
+61.08,61,Landak,Kalimantan Barat,Kalimantan Barat,False,68.14,38.92
+72.01,72,Banggai,Sulawesi Tengah,Sulawesi Tengah,False,71.7,27.38
+81.01,81,Maluku Tengah,Maluku,Maluku,False,72.45,67.22
+92.01,92,Sorong,Papua Barat Daya,Papua Barat,False,67.49,26.27
+14.02,14,Indragiri Hulu,Riau,Riau,False,71.04,27.4
+82.04,82,Halmahera Selatan,Maluku Utara,Maluku Utara,False,65.83,13.65
+14.08,14,Siak,Riau,Riau,False,74.98,26.99
+81.07,81,Kepulauan Aru,Maluku,Maluku,False,65.01,23.13
+62.09,62,Lamandau,Kalimantan Tengah,Kalimantan Tengah,False,71.81,2.63
+14.06,14,Rokan Hulu,Riau,Riau,False,71.02,74.38
+72.02,72,Poso,Sulawesi Tengah,Sulawesi Tengah,False,72.48,41.48
+15.02,15,Merangin,Jambi,Jambi,False,70.81,35.19
+73.22,73,Luwu Utara,Sulawesi Selatan,Sulawesi Selatan,False,71.34,40.79
+53.11,53,Sumba Timur,Nusa Tenggara Timur,Nusa Tenggara Timur,False,67.05,75.66
+92.05,92,Raja Ampat,Papua Barat Daya,Papua Barat,False,65.26,8.51
+16.03,16,Muara Enim,Sumatera Selatan,Sumatera Selatan,False,70.24,73.24
+73.24,73,Luwu Timur,Sulawesi Selatan,Sulawesi Selatan,False,74.35,21.57
+94.05,94,Puncak,Papua Tengah,Papua,False,44.59,42.01
+52.04,52,Sumbawa,Nusa Tenggara Barat,Nusa Tenggara Barat,False,69.87,67.4
+92.04,92,Sorong Selatan,Papua Barat Daya,Papua Barat,False,63.94,9.35
+94.07,94,Intan Jaya,Papua Tengah,Papua,False,50.19,21.16
+12.13,12,Mandailing Natal,Sumatera Utara,Sumatera Utara,False,68.56,41.04
+82.06,82,Halmahera Timur,Maluku Utara,Maluku Utara,False,68.82,12.59
+62.04,62,Barito Selatan,Kalimantan Tengah,Kalimantan Tengah,False,71.65,6.66
+95.08,95,Nduga,Papua Pegunungan,Papua,False,35.19,43.27
+12.05,12,Langkat,Sumatera Utara,Sumatera Utara,False,72.21,98.16
+16.05,16,Musi Rawas,Sumatera Selatan,Sumatera Selatan,False,68.26,59.75
+15.09,15,Tebo,Jambi,Jambi,False,70.63,23.47
+13.01,13,Pesisir Selatan,Sumatera Barat,Sumatera Barat,False,71.44,35.09
+61.09,61,Sekadau,Kalimantan Barat,Kalimantan Barat,False,66.33,12.09
+94.02,94,Puncak Jaya,Papua Tengah,Papua,False,50.81,47.5
+16.13,16,Musi Rawas Utara,Sumatera Selatan,Sumatera Selatan,False,66.6,36.68
+15.03,15,Sarolangun,Jambi,Jambi,False,71.29,26.77
+61.01,61,Sambas,Kalimantan Barat,Kalimantan Barat,False,68.69,38.71
+13.09,13,Kepulauan Mentawai,Sumatera Barat,Sumatera Barat,False,63.13,13.76
+72.08,72,Parigi Moutong,Sulawesi Tengah,Sulawesi Tengah,False,67.11,77.18
+81.05,81,Seram Bagian Timur,Maluku,Maluku,False,65.82,24.26
+11.13,11,Gayo Lues,Aceh,Aceh,False,68.93,18.24
+72.09,72,Tojo Una Una,Sulawesi Tengah,Sulawesi Tengah,False,66.39,26.51
+61.07,61,Bengkayang,Kalimantan Barat,Kalimantan Barat,False,69.53,16.87
+14.09,14,Kuantan Singingi,Riau,Riau,False,71.67,26.1
+15.04,15,Batanghari,Jambi,Jambi,False,71.02,25.88
+11.03,11,Aceh Timur,Aceh,Aceh,False,69.32,60.63
+92.10,92,Maybrat,Papua Barat Daya,Papua Barat,False,61.29,13.57
+74.02,74,Konawe,Sulawesi Tenggara,Sulawesi Tenggara,False,72.77,33.09
+15.05,15,Muaro Jambi,Jambi,Jambi,False,71.04,20.83
+72.10,72,Sigi,Sulawesi Tengah,Sulawesi Tengah,False,69.93,31.47
+53.01,53,Kupang,Nusa Tenggara Timur,Nusa Tenggara Timur,False,65.82,90.23
+91.08,91,Paniai,Papua Tengah,Papua,False,57.91,61.14
+72.03,72,Donggala,Sulawesi Tengah,Sulawesi Tengah,False,66.95,50.37
+15.07,15,Tanjung Jabung Timur,Jambi,Jambi,False,66.65,23.33
+15.06,15,Tanjung Jabung Barat,Jambi,Jambi,False,69.35,33.61
+81.06,81,Seram Bagian Barat,Maluku,Maluku,False,67.56,38.87
+76.02,76,Mamuju,Sulawesi Barat,Sulawesi Barat,False,69.61,23.5
+81.04,81,Buru,Maluku,Maluku,False,70.56,25.19
+63.10,63,Tanah Bumbu,Kalimantan Selatan,Kalimantan Selatan,False,72.31,17.17
+92.07,92,Teluk Wondama,Papua Barat,Papua Barat,False,61.67,10.24
+15.08,15,Bungo,Jambi,Jambi,False,71.06,20.65
+12.08,12,Simalungun,Sumatera Utara,Sumatera Utara,False,74.29,69.21
+63.03,63,Banjar,Kalimantan Selatan,Kalimantan Selatan,False,71.46,14.77
+73.08,73,Bone,Sulawesi Selatan,Sulawesi Selatan,False,67.81,80.12
+18.02,18,Lampung Tengah,Lampung,Lampung,False,71.6,140.29
+81.08,81,Maluku Barat Daya,Maluku,Maluku,False,63.93,21.23
+17.03,17,Bengkulu Utara,Bengkulu,Bengkulu,False,70.28,35.26
+11.04,11,Aceh Tengah,Aceh,Aceh,False,74.6,31.68
+94.06,94,Dogiyai,Papua Tengah,Papua,False,56.7,29.32
+72.06,72,Morowali,Sulawesi Tengah,Sulawesi Tengah,False,73.02,15.75
+16.09,16,Ogan Komering Ulu Selatan,Sumatera Selatan,Sumatera Selatan,False,66.67,39.3
+81.03,81,Kepulauan Tanimbar,Maluku,Maluku,False,64.16,27.64
+75.04,75,Pohuwato,Gorontalo,Gorontalo,False,67.15,29.39
+16.04,16,Lahat,Sumatera Selatan,Sumatera Selatan,False,69.1,63.36
+12.03,12,Tapanuli Selatan,Sumatera Utara,Sumatera Utara,False,71.55,20.09
+52.06,52,Bima,Nusa Tenggara Barat,Nusa Tenggara Barat,False,68.28,74.74
+74.05,74,Konawe Selatan,Sulawesi Tenggara,Sulawesi Tenggara,False,70.32,36.84
+32.02,32,Sukabumi,Jawa Barat,Jawa Barat,False,68.49,178.71
+74.09,74,Konawe Utara,Sulawesi Tenggara,Sulawesi Tenggara,False,71.71,9.01
+11.02,11,Aceh Tenggara,Aceh,Aceh,False,71.05,27.96
+11.01,11,Aceh Selatan,Aceh,Aceh,False,68.44,30.36
+17.06,17,Muko Muko,Bengkulu,Bengkulu,False,69.97,20.7
+61.11,61,Kayong Utara,Kalimantan Barat,Kalimantan Barat,False,64.79,10.77
+74.11,74,Kolaka Timur,Sulawesi Tenggara,Sulawesi Tenggara,False,69.57,20.41
+53.02,53,Timor Tengah Selatan,Nusa Tenggara Timur,Nusa Tenggara Timur,False,63.58,119.51
+12.20,12,Padang Lawas Utara,Sumatera Utara,Sumatera Utara,False,71.63,26.17
+12.21,12,Padang Lawas,Sumatera Utara,Sumatera Utara,False,70.34,24.51
+13.08,13,Pasaman,Sumatera Barat,Sumatera Barat,False,68.13,19.99
+12.02,12,Tapanuli Utara,Sumatera Utara,Sumatera Utara,False,74.65,26.39
+11.14,11,Aceh Jaya,Aceh,Aceh,False,70.88,12.22
+18.07,18,Lampung Timur,Lampung,Lampung,False,71.21,148.26
+63.01,63,Tanah Laut,Kalimantan Selatan,Kalimantan Selatan,False,70.98,13.22
+13.12,13,Pasaman Barat,Sumatera Barat,Sumatera Barat,False,70.19,33.52
+12.09,12,Asahan,Sumatera Utara,Sumatera Utara,False,71.56,61.69
+16.01,16,Ogan Komering Ulu,Sumatera Selatan,Sumatera Selatan,False,71.01,44.11
+95.04,95,Tolikara,Papua Pegunungan,Papua,False,51.48,48.4
+95.06,95,Yalimo,Papua Pegunungan,Papua,False,50.87,21.67
+72.05,72,Buol,Sulawesi Tengah,Sulawesi Tengah,False,69.57,23.13
+12.23,12,Labuhanbatu Utara,Sumatera Utara,Sumatera Utara,False,73.63,34.13
+72.04,72,Toli Toli,Sulawesi Tengah,Sulawesi Tengah,False,67.66,31.13
+81.09,81,Buru Selatan,Maluku,Maluku,False,66.23,9.77
+32.03,32,Cianjur,Jawa Barat,Jawa Barat,False,66.55,240.06
+35.10,35,Banyuwangi,Jawa Timur,Jawa Timur,False,72.61,119.52
+14.10,14,Kepulauan Meranti,Riau,Riau,False,67.28,43.82
+35.07,35,Malang,Jawa Timur,Jawa Timur,False,72.16,251.36
+13.02,13,Solok,Sumatera Barat,Sumatera Barat,False,70.63,27.33
+19.03,19,Bangka Selatan,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,False,68.51,6.66
+18.08,18,Way Kanan,Lampung,Lampung,False,68.63,51.26
+11.15,11,Nagan Raya,Aceh,Aceh,False,70.78,29.78
+63.09,63,Tabalong,Kalimantan Selatan,Kalimantan Selatan,False,73.85,15.15
+65.04,65,Tana Tidung,Kalimantan Utara,Kalimantan Utara,False,69.2,1.47
+15.01,15,Kerinci,Jambi,Jambi,False,72.54,18.21
+16.08,16,Ogan Komering Ulu Timur,Sumatera Selatan,Sumatera Selatan,False,70.96,69.91
+82.03,82,Halmahera Utara,Maluku Utara,Maluku Utara,False,69.05,9.18
+95.05,95,Mamberamo Tengah,Papua Pegunungan,Papua,False,50.22,19.83
+13.07,13,Lima Puluh Kota,Sumatera Barat,Sumatera Barat,False,70.7,27.02
+35.09,35,Jember,Jawa Timur,Jawa Timur,False,68.64,236.46
+36.02,36,Lebak,Banten,Banten,False,65.21,114.54
+62.08,62,Sukamara,Kalimantan Tengah,Kalimantan Tengah,False,69.44,2.71
+92.12,92,Pegunungan Arfak,Papua Barat,Papua Barat,False,57.82,11.71
+71.01,71,Bolaang Mongondow,Sulawesi Utara,Sulawesi Utara,False,69.62,19.02
+74.06,74,Bombana,Sulawesi Tenggara,Sulawesi Tenggara,False,67.43,20.52
+13.11,13,Solok Selatan,Sumatera Barat,Sumatera Barat,False,70.58,11.91
+64.09,64,Penajam Paser Utara,Kalimantan Timur,Kalimantan Timur,False,73.3,11.19
+11.07,11,Pidie,Aceh,Aceh,False,71.66,86.79
+13.03,13,Sijunjung,Sumatera Barat,Sumatera Barat,False,69.65,15.02
+62.13,62,Barito Timur,Kalimantan Tengah,Kalimantan Tengah,False,72.7,8.59
+32.05,32,Garut,Jawa Barat,Jawa Barat,False,68.11,260.48
+32.01,32,Bogor,Jawa Barat,Jawa Barat,False,71.78,453.76
+18.05,18,Tulang Bawang,Lampung,Lampung,False,70.02,37.83
+53.15,53,Manggarai Barat,Nusa Tenggara Timur,Nusa Tenggara Timur,False,65.81,49.95
+12.22,12,Labuhanbatu Selatan,Sumatera Utara,Sumatera Utara,False,72.82,29.83
+76.03,76,Mamasa,Sulawesi Barat,Sulawesi Barat,False,67.83,23.58
+19.01,19,Bangka,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,False,73.66,14.87
+18.06,18,Tanggamus,Lampung,Lampung,False,67.86,65.18
+82.08,82,Pulau Taliabu,Maluku Utara,Maluku Utara,False,62.31,4.03
+74.01,74,Kolaka,Sulawesi Tenggara,Sulawesi Tenggara,False,74.72,32.96
+18.13,18,Pesisir Barat,Lampung,Lampung,False,66.0,21.45
+53.05,53,Alor,Nusa Tenggara Timur,Nusa Tenggara Timur,False,62.99,41.91
+74.08,74,Kolaka Utara,Sulawesi Tenggara,Sulawesi Tenggara,False,71.04,21.79
+13.10,13,Dharmasraya,Sumatera Barat,Sumatera Barat,False,73.04,15.49
+73.17,73,Luwu,Sulawesi Selatan,Sulawesi Selatan,False,72.16,47.67
+76.01,76,Pasangkayu,Sulawesi Barat,Sulawesi Barat,False,69.11,8.94
+11.06,11,Aceh Besar,Aceh,Aceh,False,74.53,58.94
+19.05,19,Bangka Barat,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,False,70.45,5.91
+62.71,62,Kota Palangkaraya,Kalimantan Tengah,Kalimantan Tengah,True,81.68,10.31
+11.05,11,Aceh Barat,Aceh,Aceh,False,72.88,38.84
+12.10,12,Labuhanbatu,Sumatera Utara,Sumatera Utara,False,73.69,42.58
+36.01,36,Pandeglang,Banten,Banten,False,66.42,114.23
+92.02,92,Manokwari,Papua Barat,Papua Barat,False,73.21,33.35
+76.06,76,Mamuju Tengah,Sulawesi Barat,Sulawesi Barat,False,67.45,10.39
+32.06,32,Tasikmalaya,Jawa Barat,Jawa Barat,False,67.76,186.87
+11.08,11,Aceh Utara,Aceh,Aceh,False,70.87,106.77
+18.03,18,Lampung Utara,Lampung,Lampung,False,68.95,107.21
+53.03,53,Timor Tengah Utara,Nusa Tenggara Timur,Nusa Tenggara Timur,False,65.16,57.19
+73.13,73,Wajo,Sulawesi Selatan,Sulawesi Selatan,False,71.1,27.54
+17.04,17,Kaur,Bengkulu,Bengkulu,False,68.38,22.45
+95.01,95,Jayawijaya,Papua Pegunungan,Papua,False,60.5,73.42
+12.07,12,Deli Serdang,Sumatera Utara,Sumatera Utara,False,76.52,82.75
+91.28,91,Deiyai,Papua Tengah,Papua,False,51.18,30.18
+19.06,19,Belitung Timur,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,False,72.86,8.89
+12.14,12,Nias Selatan,Sumatera Utara,Sumatera Utara,False,64.12,54.29
+17.05,17,Seluma,Bengkulu,Bengkulu,False,68.27,36.32
+63.04,63,Barito Kuala,Kalimantan Selatan,Kalimantan Selatan,False,68.11,14.71
+53.19,53,Manggarai Timur,Nusa Tenggara Timur,Nusa Tenggara Timur,False,63.24,74.4
+91.05,91,Kepulauan Yapen,Papua,Papua,False,69.11,26.03
+72.07,72,Banggai Kepulauan,Sulawesi Tengah,Sulawesi Tengah,False,66.82,15.5
+12.16,12,Humbang Hasundutan,Sumatera Utara,Sumatera Utara,False,70.75,17.14
+82.07,82,Pulau Morotai,Maluku Utara,Maluku Utara,False,64.73,3.81
+35.22,35,Bojonegoro,Jawa Timur,Jawa Timur,False,70.85,153.25
+33.01,33,Cilacap,Jawa Tengah,Jawa Tengah,False,71.83,191.0
+12.01,12,Tapanuli Tengah,Sumatera Utara,Sumatera Utara,False,70.91,47.09
+16.10,16,Ogan Ilir,Sumatera Selatan,Sumatera Selatan,False,68.76,59.33
+52.05,52,Dompu,Nusa Tenggara Barat,Nusa Tenggara Barat,False,69.98,34.38
+12.12,12,Toba,Sumatera Utara,Sumatera Utara,False,76.38,14.94
+95.07,95,Lanny Jaya,Papua Pegunungan,Papua,False,50.56,76.43
+82.02,82,Halmahera Tengah,Maluku Utara,Maluku Utara,False,67.48,6.74
+19.04,19,Bangka Tengah,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,False,71.71,10.58
+13.06,13,Agam,Sumatera Barat,Sumatera Barat,False,73.98,33.41
+16.11,16,Empat Lawang,Sumatera Selatan,Sumatera Selatan,False,66.68,30.78
+19.02,19,Belitung,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,False,74.02,12.51
+82.01,82,Halmahera Barat,Maluku Utara,Maluku Utara,False,66.91,10.53
+12.06,12,Karo,Sumatera Utara,Sumatera Utara,False,75.98,35.65
+18.01,18,Lampung Selatan,Lampung,Lampung,False,69.63,133.67
+18.11,18,Mesuji,Lampung,Lampung,False,65.64,13.71
+11.16,11,Aceh Tamiang,Aceh,Aceh,False,71.35,38.37
+91.06,91,Biak Numfor,Papua,Papua,False,73.46,35.7
+32.13,32,Subang,Jawa Barat,Jawa Barat,False,70.7,152.33
+75.01,75,Gorontalo,Gorontalo,Gorontalo,False,69.09,65.88
+63.05,63,Tapin,Kalimantan Selatan,Kalimantan Selatan,False,72.0,6.22
+18.04,18,Lampung Barat,Lampung,Lampung,False,69.11,34.73
+53.08,53,Ende,Nusa Tenggara Timur,Nusa Tenggara Timur,False,68.63,63.1
+32.12,32,Indramayu,Jawa Barat,Jawa Barat,False,69.25,214.74
+12.11,12,Dairi,Sumatera Utara,Sumatera Utara,False,73.27,21.42
+76.04,76,Polewali Mandar,Sulawesi Barat,Sulawesi Barat,False,65.59,71.92
+14.72,14,Kota Dumai,Riau,Riau,True,75.66,10.15
+73.18,73,Tana Toraja,Sulawesi Selatan,Sulawesi Selatan,False,70.73,30.23
+33.15,33,Grobogan,Jawa Tengah,Jawa Tengah,False,71.49,162.52
+12.18,12,Serdang Bedagai,Sumatera Utara,Sumatera Utara,False,71.75,45.88
+21.04,21,Lingga,Kepulauan Riau,Kepulauan Riau,False,67.44,10.18
+35.23,35,Tuban,Jawa Timur,Jawa Timur,False,70.34,177.25
+35.29,35,Sumenep,Jawa Timur,Jawa Timur,False,68.61,206.1
+33.16,33,Blora,Jawa Tengah,Jawa Tengah,False,70.63,99.61
+32.15,32,Karawang,Jawa Barat,Jawa Barat,False,72.35,187.23
+61.02,61,Mempawah,Kalimantan Barat,Kalimantan Barat,False,67.92,14.15
+33.12,33,Wonogiri,Jawa Tengah,Jawa Tengah,False,71.97,104.82
+11.17,11,Bener Meriah,Aceh,Aceh,False,74.49,28.19
+21.03,21,Natuna,Kepulauan Riau,Kepulauan Riau,False,74.21,4.3
+73.15,73,Pinrang,Sulawesi Selatan,Sulawesi Selatan,False,72.84,34.23
+75.03,75,Bone Bolango,Gorontalo,Gorontalo,False,71.51,24.72
+11.12,11,Aceh Barat Daya,Aceh,Aceh,False,68.07,24.31
+74.03,74,Muna,Sulawesi Tenggara,Sulawesi Tenggara,False,70.16,32.24
+12.17,12,Samosir,Sumatera Utara,Sumatera Utara,False,72.08,14.86
+16.12,16,Penukal Abab Lematang Ilir,Sumatera Selatan,Sumatera Selatan,False,66.64,21.72
+92.11,92,Manokwari Selatan,Papua Barat,Papua Barat,False,61.55,7.69
+73.14,73,Sidenreng Rappang,Sulawesi Selatan,Sulawesi Selatan,False,72.71,15.75
+63.11,63,Balangan,Kalimantan Selatan,Kalimantan Selatan,False,70.49,7.07
+75.02,75,Boalemo,Gorontalo,Gorontalo,False,68.18,31.94
+11.10,11,Aceh Singkil,Aceh,Aceh,False,70.14,24.62
+73.06,73,Gowa,Sulawesi Selatan,Sulawesi Selatan,False,71.57,59.1
+35.08,35,Lumajang,Jawa Timur,Jawa Timur,False,67.87,93.82
+53.17,53,Sumba Tengah,Nusa Tenggara Timur,Nusa Tenggara Timur,False,63.48,24.24
+73.16,73,Enrekang,Sulawesi Selatan,Sulawesi Selatan,False,73.89,26.97
+11.11,11,Bireuen,Aceh,Aceh,False,73.63,59.21
+35.05,35,Blitar,Jawa Timur,Jawa Timur,False,72.49,101.94
+11.09,11,Simeulue,Aceh,Aceh,False,68.06,17.62
+71.11,71,Bolaang Mongondow Selatan,Sulawesi Utara,Sulawesi Utara,False,66.4,8.28
+82.05,82,Kepulauan Sula,Maluku Utara,Maluku Utara,False,65.29,8.45
+35.24,35,Lamongan,Jawa Timur,Jawa Timur,False,74.53,149.94
+53.06,53,Flores Timur,Nusa Tenggara Timur,Nusa Tenggara Timur,False,65.79,30.93
+33.29,33,Brebes,Jawa Tengah,Jawa Tengah,False,67.95,286.14
+32.04,32,Bandung,Jawa Barat,Jawa Barat,False,73.74,245.49
+52.07,52,Sumbawa Barat,Nusa Tenggara Barat,Nusa Tenggara Barat,False,73.17,21.77
+53.09,53,Ngada,Nusa Tenggara Timur,Nusa Tenggara Timur,False,69.14,20.57
+74.10,74,Buton Utara,Sulawesi Tenggara,Sulawesi Tenggara,False,69.7,9.09
+35.13,35,Probolinggo,Jawa Timur,Jawa Timur,False,67.79,205.02
+63.06,63,Hulu Sungai Selatan,Kalimantan Selatan,Kalimantan Selatan,False,70.5,9.61
+82.72,82,Kota Tidore Kepulauan,Maluku Utara,Maluku Utara,True,72.4,6.48
+75.05,75,Gorontalo Utara,Gorontalo,Gorontalo,False,66.61,19.17
+53.07,53,Sikka,Nusa Tenggara Timur,Nusa Tenggara Timur,False,66.89,40.81
+74.04,74,Buton,Sulawesi Tenggara,Sulawesi Tenggara,False,68.12,14.15
+35.12,35,Situbondo,Jawa Timur,Jawa Timur,False,69.16,82.62
+17.07,17,Lebong,Bengkulu,Bengkulu,False,68.71,13.23
+71.08,71,Bolaang Mongondow Utara,Sulawesi Utara,Sulawesi Utara,False,68.64,6.56
+52.03,52,Lombok Timur,Nusa Tenggara Barat,Nusa Tenggara Barat,False,68.41,197.63
+32.07,32,Ciamis,Jawa Barat,Jawa Barat,False,72.05,90.84
+35.06,35,Kediri,Jawa Timur,Jawa Timur,False,73.96,171.18
+33.18,33,Pati,Jawa Tengah,Jawa Tengah,False,73.59,118.18
+32.11,32,Sumedang,Jawa Barat,Jawa Barat,False,73.18,111.39
+63.07,63,Hulu Sungai Tengah,Kalimantan Selatan,Kalimantan Selatan,False,70.13,16.01
+35.11,35,Bondowoso,Jawa Timur,Jawa Timur,False,67.99,105.13
+17.02,17,Rejang Lebong,Bengkulu,Bengkulu,False,72.31,41.18
+35.14,35,Pasuruan,Jawa Timur,Jawa Timur,False,70.29,154.09
+34.03,34,Gunungkidul,Daerah Istimewa Yogyakarta,Daerah Istimewa Yogyakarta,False,71.24,122.24
+36.04,36,Serang,Banten,Banten,False,68.39,73.83
+71.05,71,Minahasa Selatan,Sulawesi Utara,Sulawesi Utara,False,73.66,18.9
+73.09,73,Maros,Sulawesi Selatan,Sulawesi Selatan,False,71.63,34.96
+35.01,35,Pacitan,Jawa Timur,Jawa Timur,False,70.19,76.2
+35.02,35,Ponorogo,Jawa Timur,Jawa Timur,False,72.5,83.71
+53.16,53,Nagekeo,Nusa Tenggara Timur,Nusa Tenggara Timur,False,67.07,18.57
+35.21,35,Ngawi,Jawa Timur,Jawa Timur,False,72.47,121.3
+33.02,33,Banyumas,Jawa Tengah,Jawa Tengah,False,73.86,216.5
+53.18,53,Sumba Barat Daya,Nusa Tenggara Timur,Nusa Tenggara Timur,False,63.74,101.4
+13.04,13,Tanah Datar,Sumatera Barat,Sumatera Barat,False,73.98,14.57
+73.12,73,Soppeng,Sulawesi Selatan,Sulawesi Selatan,False,70.58,17.21
+12.15,12,Pakpak Bharat,Sumatera Utara,Sumatera Utara,False,69.58,4.01
+53.10,53,Manggarai,Nusa Tenggara Timur,Nusa Tenggara Timur,False,66.42,70.0
+33.05,33,Kebumen,Jawa Tengah,Jawa Tengah,False,71.37,195.45
+13.05,13,Padang Pariaman,Sumatera Barat,Sumatera Barat,False,72.61,26.93
+32.10,32,Majalengka,Jawa Barat,Jawa Barat,False,69.13,138.74
+51.08,51,Buleleng,Bali,Bali,False,73.97,39.52
+35.26,35,Bangkalan,Jawa Timur,Jawa Timur,False,65.75,196.66
+35.18,35,Nganjuk,Jawa Timur,Jawa Timur,False,73.71,115.86
+71.02,71,Minahasa,Sulawesi Utara,Sulawesi Utara,False,76.96,23.86
+32.17,32,Bandung Barat,Jawa Barat,Jawa Barat,False,69.61,179.43
+73.26,73,Toraja Utara,Sulawesi Selatan,Sulawesi Selatan,False,71.23,29.14
+53.13,53,Lembata,Nusa Tenggara Timur,Nusa Tenggara Timur,False,66.12,37.94
+53.14,53,Rote Ndao,Nusa Tenggara Timur,Nusa Tenggara Timur,False,64.0,53.55
+18.09,18,Pesawaran,Lampung,Lampung,False,67.67,59.29
+18.12,18,Tulang Bawang Barat,Lampung,Lampung,False,67.81,20.32
+35.25,35,Gresik,Jawa Timur,Jawa Timur,False,77.98,149.75
+35.03,35,Trenggalek,Jawa Timur,Jawa Timur,False,71.73,74.58
+32.16,32,Bekasi,Jawa Barat,Jawa Barat,False,75.76,204.09
+35.27,35,Sampang,Jawa Timur,Jawa Timur,False,64.13,221.71
+12.24,12,Nias Utara,Sumatera Utara,Sumatera Utara,False,64.64,30.78
+17.01,17,Bengkulu Selatan,Bengkulu,Bengkulu,False,71.91,31.89
+21.01,21,Bintan,Kepulauan Riau,Kepulauan Riau,False,75.7,9.86
+73.11,73,Barru,Sulawesi Selatan,Sulawesi Selatan,False,72.36,14.88
+32.08,32,Kuningan,Jawa Barat,Jawa Barat,False,70.72,133.88
+11.75,11,Kota Subulussalam,Aceh,Aceh,True,67.1,13.8
+52.02,52,Lombok Tengah,Nusa Tenggara Barat,Nusa Tenggara Barat,False,68.4,129.74
+73.02,73,Bulukumba,Sulawesi Selatan,Sulawesi Selatan,False,71.21,30.65
+33.08,33,Magelang,Jawa Tengah,Jawa Tengah,False,71.45,144.49
+35.04,35,Tulungagung,Jawa Timur,Jawa Timur,False,74.61,68.81
+33.04,33,Banjarnegara,Jawa Tengah,Jawa Tengah,False,69.14,138.99
+53.04,53,Belu,Nusa Tenggara Timur,Nusa Tenggara Timur,False,63.83,33.19
+33.27,33,Pemalang,Jawa Tengah,Jawa Tengah,False,68.03,195.57
+53.21,53,Malaka,Nusa Tenggara Timur,Nusa Tenggara Timur,False,62.06,29.19
+32.18,32,Pangandaran,Jawa Barat,Jawa Barat,False,69.38,36.7
+17.09,17,Bengkulu Tengah,Bengkulu,Bengkulu,False,68.99,11.01
+35.19,35,Madiun,Jawa Timur,Jawa Timur,False,72.97,75.87
+35.17,35,Jombang,Jawa Timur,Jawa Timur,False,74.6,117.36
+33.09,33,Boyolali,Jawa Tengah,Jawa Tengah,False,75.41,97.48
+73.01,73,Kepulauan Selayar,Sulawesi Selatan,Sulawesi Selatan,False,69.2,16.89
+33.06,33,Purworejo,Jawa Tengah,Jawa Tengah,False,74.28,81.28
+33.22,33,Semarang,Jawa Tengah,Jawa Tengah,False,75.13,78.35
+32.09,32,Cirebon,Jawa Barat,Jawa Barat,False,70.95,249.18
+33.17,33,Rembang,Jawa Tengah,Jawa Tengah,False,71.89,91.97
+36.03,36,Tangerang,Banten,Banten,False,73.43,276.33
+33.07,33,Wonosobo,Jawa Tengah,Jawa Tengah,False,69.37,123.7
+33.20,33,Jepara,Jawa Tengah,Jawa Tengah,False,73.85,86.75
+33.24,33,Kendal,Jawa Tengah,Jawa Tengah,False,73.86,92.64
+35.16,35,Mojokerto,Jawa Timur,Jawa Timur,False,75.53,112.86
+33.14,33,Sragen,Jawa Tengah,Jawa Tengah,False,75.1,114.62
+32.14,32,Purwakarta,Jawa Barat,Jawa Barat,False,72.09,81.54
+71.04,71,Kepulauan Talaud,Sulawesi Utara,Sulawesi Utara,False,71.14,7.97
+33.28,33,Tegal,Jawa Tengah,Jawa Tengah,False,70.23,105.03
+71.06,71,Minahasa Utara,Sulawesi Utara,Sulawesi Utara,False,75.31,13.66
+33.21,33,Demak,Jawa Tengah,Jawa Tengah,False,74.07,143.26
+81.02,81,Maluku Tenggara,Maluku,Maluku,False,67.57,22.02
+11.18,11,Pidie Jaya,Aceh,Aceh,False,74.8,30.74
+52.01,52,Lombok Barat,Nusa Tenggara Barat,Nusa Tenggara Barat,False,70.15,102.71
+63.08,63,Hulu Sungai Utara,Kalimantan Selatan,Kalimantan Selatan,False,67.66,15.02
+76.05,76,Majene,Sulawesi Barat,Sulawesi Barat,False,68.62,25.8
+33.26,33,Pekalongan,Jawa Tengah,Jawa Tengah,False,71.4,87.93
+12.19,12,Batu Bara,Sumatera Utara,Sumatera Utara,False,70.31,49.18
+21.71,21,Kota Batam,Kepulauan Riau,Kepulauan Riau,True,82.11,83.09
+33.23,33,Temanggung,Jawa Tengah,Jawa Tengah,False,71.33,72.96
+73.07,73,Sinjai,Sulawesi Selatan,Sulawesi Selatan,False,68.92,21.14
+33.25,33,Batang,Jawa Tengah,Jawa Tengah,False,70.2,69.97
+51.02,51,Tabanan,Bali,Bali,False,77.43,21.42
+71.10,71,Bolaang Mongondow Timur,Sulawesi Utara,Sulawesi Utara,False,67.95,4.32
+51.01,51,Jembrana,Bali,Bali,False,74.04,14.12
+51.07,51,Karangasem,Bali,Bali,False,68.91,27.83
+91.71,91,Kota Jayapura,Papua,Papua,True,81.14,32.79
+12.04,12,Nias,Sumatera Utara,Sumatera Utara,False,64.56,21.99
+74.14,74,Buton Tengah,Sulawesi Tenggara,Sulawesi Tenggara,False,65.83,14.46
+73.10,73,Pangkajene dan Kepulauan,Sulawesi Selatan,Sulawesi Selatan,False,70.59,46.06
+33.03,33,Purbalingga,Jawa Tengah,Jawa Tengah,False,70.24,143.41
+21.02,21,Karimun,Kepulauan Riau,Kepulauan Riau,False,73.51,14.33
+52.08,52,Lombok Utara,Nusa Tenggara Barat,Nusa Tenggara Barat,False,66.62,60.13
+33.13,33,Karanganyar,Jawa Tengah,Jawa Tengah,False,77.31,88.64
+35.28,35,Pamekasan,Jawa Timur,Jawa Timur,False,67.96,126.43
+73.04,73,Jeneponto,Sulawesi Selatan,Sulawesi Selatan,False,65.9,48.32
+74.13,74,Muna Barat,Sulawesi Tenggara,Sulawesi Tenggara,False,67.13,11.81
+53.12,53,Sumba Barat,Nusa Tenggara Timur,Nusa Tenggara Timur,False,65.22,37.15
+71.07,71,Minahasa Tenggara,Sulawesi Utara,Sulawesi Utara,False,71.93,12.7
+17.08,17,Kepahiang,Bengkulu,Bengkulu,False,69.6,20.32
+35.15,35,Sidoarjo,Jawa Timur,Jawa Timur,False,81.55,119.15
+64.72,64,Kota Samarinda,Kalimantan Timur,Kalimantan Timur,True,82.32,41.89
+35.20,35,Magetan,Jawa Timur,Jawa Timur,False,75.41,62.49
+33.10,33,Klaten,Jawa Tengah,Jawa Tengah,False,77.59,144.43
+74.12,74,Konawe Kepulauan,Sulawesi Tenggara,Sulawesi Tenggara,False,67.32,5.44
+13.71,13,Kota Padang,Sumatera Barat,Sumatera Barat,True,83.58,41.97
+14.71,14,Kota Pekanbaru,Riau,Riau,True,82.38,37.67
+91.19,91,Supiori,Papua,Papua,False,64.61,7.94
+16.72,16,Kota Pagar Alam,Sumatera Selatan,Sumatera Selatan,True,70.45,12.73
+18.10,18,Pringsewu,Lampung,Lampung,False,71.61,37.6
+72.11,72,Banggai Laut,Sulawesi Tengah,Sulawesi Tengah,False,66.93,11.27
+34.01,34,Kulon Progo,Daerah Istimewa Yogyakarta,Daerah Istimewa Yogyakarta,False,75.79,70.74
+34.04,34,Sleman,Daerah Istimewa Yogyakarta,Daerah Istimewa Yogyakarta,False,84.77,97.5
+61.72,61,Kota Singkawang,Kalimantan Barat,Kalimantan Barat,True,73.39,11.06
+71.03,71,Kepulauan Sangihe,Sulawesi Utara,Sulawesi Utara,False,72.22,14.6
+73.05,73,Takalar,Sulawesi Selatan,Sulawesi Selatan,False,68.9,25.01
+51.06,51,Bangli,Bali,Bali,False,70.79,12.24
+34.02,34,Bantul,Daerah Istimewa Yogyakarta,Daerah Istimewa Yogyakarta,False,81.39,128.51
+64.71,64,Kota Balikpapan,Kalimantan Timur,Kalimantan Timur,True,81.66,14.99
+74.15,74,Buton Selatan,Sulawesi Tenggara,Sulawesi Tenggara,False,66.15,11.88
+33.11,33,Sukoharjo,Jawa Tengah,Jawa Tengah,False,78.65,68.79
+21.05,21,Kepulauan Anambas,Kepulauan Riau,Kepulauan Riau,False,70.26,3.08
+53.20,53,Sabu Raijua,Nusa Tenggara Timur,Nusa Tenggara Timur,False,58.89,30.43
+33.19,33,Kudus,Jawa Tengah,Jawa Tengah,False,76.71,65.16
+16.74,16,Kota Prabumulih,Sumatera Selatan,Sumatera Selatan,True,76.46,22.33
+12.25,12,Nias Barat,Sumatera Utara,Sumatera Utara,False,63.7,18.86
+74.07,74,Wakatobi,Sulawesi Tenggara,Sulawesi Tenggara,False,71.43,15.34
+51.03,51,Badung,Bali,Bali,False,83.08,17.01
+73.03,73,Bantaeng,Sulawesi Selatan,Sulawesi Selatan,False,70.57,17.49
+33.74,33,Kota Semarang,Jawa Tengah,Jawa Tengah,True,84.43,80.53
+51.04,51,Gianyar,Bali,Bali,False,79.24,23.76
+16.73,16,Kota Lubuk Linggau,Sumatera Selatan,Sumatera Selatan,True,76.19,31.02
+15.72,15,Kota Sungai Penuh,Jambi,Jambi,True,76.65,2.66
+72.71,72,Kota Palu,Sulawesi Tengah,Sulawesi Tengah,True,82.52,26.83
+16.71,16,Kota Palembang,Sumatera Selatan,Sumatera Selatan,True,80.02,179.45
+35.78,35,Kota Surabaya,Jawa Timur,Jawa Timur,True,83.45,136.37
+71.72,71,Kota Bitung,Sulawesi Utara,Sulawesi Utara,True,75.11,15.0
+63.72,63,Kota Banjarbaru,Kalimantan Selatan,Kalimantan Selatan,True,80.11,11.18
+51.05,51,Klungkung,Bali,Bali,False,73.11,10.22
+74.72,74,Kota Bau Bau,Sulawesi Tenggara,Sulawesi Tenggara,True,77.52,13.29
+12.78,12,Kota Gunungsitoli,Sumatera Utara,Sumatera Utara,True,70.68,22.03
+12.71,12,Kota Medan,Sumatera Utara,Sumatera Utara,True,82.19,187.28
+73.73,73,Kota Palopo,Sulawesi Selatan,Sulawesi Selatan,True,79.45,14.85
+36.73,36,Kota Serang,Banten,Banten,True,73.48,44.99
+74.71,74,Kota Kendari,Sulawesi Tenggara,Sulawesi Tenggara,True,84.85,19.24
+65.71,65,Kota Tarakan,Kalimantan Utara,Kalimantan Utara,True,77.53,16.49
+81.71,81,Kota Ambon,Maluku,Maluku,True,82.06,25.87
+13.73,13,Kota Sawahlunto,Sumatera Barat,Sumatera Barat,True,74.42,1.47
+11.74,11,Kota Langsa,Aceh,Aceh,True,78.36,19.5
+32.75,32,Kota Bekasi,Jawa Barat,Jawa Barat,True,83.03,129.4
+52.72,52,Kota Bima,Nusa Tenggara Barat,Nusa Tenggara Barat,True,77.36,16.53
+81.72,81,Kota Tual,Maluku,Maluku,True,69.43,16.41
+71.09,71,Kep. Siau Tagulandang Biaro,Sulawesi Utara,Sulawesi Utara,False,69.57,5.92
+32.76,32,Kota Depok,Jawa Barat,Jawa Barat,True,82.38,61.95
+92.71,92,Kota Sorong,Papua Barat Daya,Papua Barat,True,79.65,41.61
+35.79,35,Kota Batu,Jawa Timur,Jawa Timur,True,78.18,7.1
+31.75,31,Kota Adm. Jakarta Timur,DKI Jakarta,DKI Jakarta,True,84.13,124.22
+32.78,32,Kota Tasikmalaya,Jawa Barat,Jawa Barat,True,74.47,79.37
+18.71,18,Kota Bandar Lampung,Lampung,Lampung,True,78.56,87.08
+36.71,36,Kota Tangerang,Banten,Banten,True,79.46,137.7
+73.71,73,Kota Makassar,Sulawesi Selatan,Sulawesi Selatan,True,83.52,80.32
+15.71,15,Kota Jambi,Jambi,Jambi,True,80.15,50.09
+71.73,71,Kota Tomohon,Sulawesi Utara,Sulawesi Utara,True,78.1,6.24
+32.73,32,Kota Bandung,Jawa Barat,Jawa Barat,True,83.04,102.8
+36.74,36,Kota Tangerang Selatan,Banten,Banten,True,82.28,46.31
+36.72,36,Kota Cilegon,Banten,Banten,True,74.54,18.2
+53.71,53,Kota Kupang,Nusa Tenggara Timur,Nusa Tenggara Timur,True,80.62,41.2
+64.74,64,Kota Bontang,Kalimantan Timur,Kalimantan Timur,True,81.56,7.71
+12.77,12,Kota Padang Sidempuan,Sumatera Utara,Sumatera Utara,True,76.44,16.15
+82.71,82,Kota Ternate,Maluku Utara,Maluku Utara,True,81.35,8.36
+17.71,17,Kota Bengkulu,Bengkulu,Bengkulu,True,81.45,56.1
+31.74,31,Kota Adm. Jakarta Selatan,DKI Jakarta,DKI Jakarta,True,86.07,71.9
+71.71,71,Kota Manado,Sulawesi Utara,Sulawesi Utara,True,80.14,25.17
+31.72,31,Kota Adm. Jakarta Utara,DKI Jakarta,DKI Jakarta,True,81.11,125.98
+21.72,21,Kota Tanjung Pinang,Kepulauan Riau,Kepulauan Riau,True,80.23,17.67
+32.79,32,Kota Banjar,Jawa Barat,Jawa Barat,True,73.08,11.66
+11.73,11,Kota Lhokseumawe,Aceh,Aceh,True,78.92,23.1
+31.73,31,Kota Adm. Jakarta Barat,DKI Jakarta,DKI Jakarta,True,83.02,109.49
+11.72,11,Kota Sabang,Aceh,Aceh,True,77.52,5.14
+51.71,51,Kota Denpasar,Bali,Bali,True,84.73,27.69
+61.71,61,Kota Pontianak,Kalimantan Barat,Kalimantan Barat,True,81.03,29.92
+32.71,32,Kota Bogor,Jawa Barat,Jawa Barat,True,77.85,74.95
+35.73,35,Kota Malang,Jawa Timur,Jawa Timur,True,83.39,37.78
+71.74,71,Kota Kotamobagu,Sulawesi Utara,Sulawesi Utara,True,74.43,6.82
+19.71,19,Kota Pangkal Pinang,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,True,79.93,9.27
+63.71,63,Kota Banjarmasin,Kalimantan Selatan,Kalimantan Selatan,True,78.5,33.47
+12.75,12,Kota Binjai,Sumatera Utara,Sumatera Utara,True,77.6,13.85
+73.72,73,Kota Parepare,Sulawesi Selatan,Sulawesi Selatan,True,79.03,7.98
+12.72,12,Kota Pematangsiantar,Sumatera Utara,Sumatera Utara,True,80.46,18.96
+13.76,13,Kota Payakumbuh,Sumatera Barat,Sumatera Barat,True,79.97,7.88
+18.72,18,Kota Metro,Lampung,Lampung,True,78.36,12.8
+75.71,75,Kota Gorontalo,Gorontalo,Gorontalo,True,78.64,12.62
+35.71,35,Kota Kediri,Jawa Timur,Jawa Timur,True,80.44,21.03
+13.77,13,Kota Pariaman,Sumatera Barat,Sumatera Barat,True,78.13,3.91
+52.71,52,Kota Mataram,Nusa Tenggara Barat,Nusa Tenggara Barat,True,80.09,46.21
+12.74,12,Kota Tanjung Balai,Sumatera Utara,Sumatera Utara,True,70.59,22.45
+13.72,13,Kota Solok,Sumatera Barat,Sumatera Barat,True,79.58,2.35
+11.71,11,Kota Banda Aceh,Aceh,Aceh,True,86.69,19.94
+33.73,33,Kota Salatiga,Jawa Tengah,Jawa Tengah,True,84.99,9.41
+35.74,35,Kota Probolinggo,Jawa Timur,Jawa Timur,True,75.43,15.86
+32.72,32,Kota Sukabumi,Jawa Barat,Jawa Barat,True,76.32,24.96
+31.71,31,Kota Adm. Jakarta Pusat,DKI Jakarta,DKI Jakarta,True,82.53,42.78
+33.72,33,Kota Surakarta,Jawa Tengah,Jawa Tengah,True,83.54,43.89
+33.75,33,Kota Pekalongan,Jawa Tengah,Jawa Tengah,True,76.71,21.36
+32.77,32,Kota Cimahi,Jawa Barat,Jawa Barat,True,79.46,28.56
+35.75,35,Kota Pasuruan,Jawa Timur,Jawa Timur,True,77.17,13.56
+32.74,32,Kota Cirebon,Jawa Barat,Jawa Barat,True,76.46,29.49
+33.76,33,Kota Tegal,Jawa Tengah,Jawa Tengah,True,77.02,19.22
+12.76,12,Kota Tebing Tinggi,Sumatera Utara,Sumatera Utara,True,76.98,16.36
+35.77,35,Kota Madiun,Jawa Timur,Jawa Timur,True,82.71,8.46
+35.72,35,Kota Blitar,Jawa Timur,Jawa Timur,True,80.63,10.61
+34.71,34,Kota Yogyakarta,Daerah Istimewa Yogyakarta,Daerah Istimewa Yogyakarta,True,88.28,29.48
+13.75,13,Kota Bukittinggi,Sumatera Barat,Sumatera Barat,True,81.78,5.78
+13.74,13,Kota Padang Panjang,Sumatera Barat,Sumatera Barat,True,79.26,2.99
+35.76,35,Kota Mojokerto,Jawa Timur,Jawa Timur,True,80.07,7.65
+33.71,33,Kota Magelang,Jawa Tengah,Jawa Tengah,True,81.17,7.45
+12.73,12,Kota Sibolga,Sumatera Utara,Sumatera Utara,True,75.2,10.02
+31.01,31,Adm. Kep. Seribu,DKI Jakarta,DKI Jakarta,False,73.39,3.47
