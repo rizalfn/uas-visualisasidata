@@ -1,0 +1,561 @@
+id,parent,label,level,jml_miskin,ipm
+Indonesia,,Indonesia,0,25898.89,
+Indonesia|Sumatera,Indonesia,Sumatera,1,5669.26,
+Indonesia|Jawa,Indonesia,Jawa,1,13621.38,
+Indonesia|Bali & Nusa Tenggara,Indonesia,Bali & Nusa Tenggara,1,2086.17,
+Indonesia|Kalimantan,Indonesia,Kalimantan,1,963.53,
+Indonesia|Sulawesi,Indonesia,Sulawesi,1,2042.96,
+Indonesia|Maluku,Indonesia,Maluku,1,385.43,
+Indonesia|Papua,Indonesia,Papua,1,1130.16,
+Indonesia|Sumatera|Aceh,Indonesia|Sumatera,Aceh,2,806.75,73.4
+Indonesia|Bali & Nusa Tenggara|Bali,Indonesia|Bali & Nusa Tenggara,Bali,2,193.81,77.1
+Indonesia|Jawa|Banten,Indonesia|Jawa,Banten,2,826.13,73.87
+Indonesia|Sumatera|Bengkulu,Indonesia|Sumatera,Bengkulu,2,288.46,72.78
+Indonesia|Jawa|DKI Jakarta,Indonesia|Jawa,DKI Jakarta,2,477.84,82.46
+Indonesia|Jawa|Daerah Istimewa Yogyakarta,Indonesia|Jawa,Daerah Istimewa Yogyakarta,2,448.47,81.07
+Indonesia|Sulawesi|Gorontalo,Indonesia|Sulawesi,Gorontalo,2,183.72,70.45
+Indonesia|Sumatera|Jambi,Indonesia|Sumatera,Jambi,2,280.69,72.77
+Indonesia|Jawa|Jawa Barat,Indonesia|Jawa,Jawa Barat,2,3888.6,73.74
+Indonesia|Jawa|Jawa Tengah,Indonesia|Jawa,Jawa Tengah,2,3791.5,73.39
+Indonesia|Jawa|Jawa Timur,Indonesia|Jawa,Jawa Timur,2,4188.84,73.38
+Indonesia|Kalimantan|Kalimantan Barat,Indonesia|Kalimantan,Kalimantan Barat,2,353.37,69.41
+Indonesia|Kalimantan|Kalimantan Selatan,Indonesia|Kalimantan,Kalimantan Selatan,2,188.92,72.5
+Indonesia|Kalimantan|Kalimantan Tengah,Indonesia|Kalimantan,Kalimantan Tengah,2,142.18,72.2
+Indonesia|Kalimantan|Kalimantan Timur,Indonesia|Kalimantan,Kalimantan Timur,2,231.08,78.2
+Indonesia|Kalimantan|Kalimantan Utara,Indonesia|Kalimantan,Kalimantan Utara,2,47.98,72.49
+Indonesia|Sumatera|Kepulauan Bangka Belitung,Indonesia|Sumatera,Kepulauan Bangka Belitung,2,68.69,72.85
+Indonesia|Sumatera|Kepulauan Riau,Indonesia|Sumatera,Kepulauan Riau,2,142.51,77.11
+Indonesia|Sumatera|Lampung,Indonesia|Sumatera,Lampung,2,970.68,71.15
+Indonesia|Maluku|Maluku,Indonesia|Maluku,Maluku,2,301.61,70.94
+Indonesia|Maluku|Maluku Utara,Indonesia|Maluku,Maluku Utara,2,83.82,70.21
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Indonesia|Bali & Nusa Tenggara,Nusa Tenggara Barat,2,751.24,70.2
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Indonesia|Bali & Nusa Tenggara,Nusa Tenggara Timur,2,1141.12,66.68
+Indonesia|Papua|Papua,Indonesia|Papua,Papua,2,149.56,72.41
+Indonesia|Papua|Papua Barat,Indonesia|Papua,Papua Barat,2,110.55,66.16
+Indonesia|Papua|Papua Barat Daya,Indonesia|Papua,Papua Barat Daya,2,104.44,68.05
+Indonesia|Papua|Papua Pegunungan,Indonesia|Papua,Papua Pegunungan,2,378.48,52.45
+Indonesia|Papua|Papua Selatan,Indonesia|Papua,Papua Selatan,2,90.68,67.27
+Indonesia|Papua|Papua Tengah,Indonesia|Papua,Papua Tengah,2,296.45,58.93
+Indonesia|Sumatera|Riau,Indonesia|Sumatera,Riau,2,485.65,74.04
+Indonesia|Sulawesi|Sulawesi Barat,Indonesia|Sulawesi,Sulawesi Barat,2,164.13,67.55
+Indonesia|Sulawesi|Sulawesi Selatan,Indonesia|Sulawesi,Sulawesi Selatan,2,788.87,73.46
+Indonesia|Sulawesi|Sulawesi Tengah,Indonesia|Sulawesi,Sulawesi Tengah,2,395.66,70.95
+Indonesia|Sulawesi|Sulawesi Tenggara,Indonesia|Sulawesi,Sulawesi Tenggara,2,321.56,72.79
+Indonesia|Sulawesi|Sulawesi Utara,Indonesia|Sulawesi,Sulawesi Utara,2,189.02,74.36
+Indonesia|Sumatera|Sumatera Barat,Indonesia|Sumatera,Sumatera Barat,2,340.39,73.75
+Indonesia|Sumatera|Sumatera Selatan,Indonesia|Sumatera,Sumatera Selatan,2,1045.7,71.62
+Indonesia|Sumatera|Sumatera Utara,Indonesia|Sumatera,Sumatera Utara,2,1239.74,73.37
+Indonesia|Papua|Papua Selatan|93.01,Indonesia|Papua|Papua Selatan,Merauke,3,24.03,72.19
+Indonesia|Kalimantan|Kalimantan Utara|65.02,Indonesia|Kalimantan|Kalimantan Utara,Malinau,3,5.95,73.19
+Indonesia|Kalimantan|Kalimantan Timur|64.08,Indonesia|Kalimantan|Kalimantan Timur,Kutai Timur,3,37.04,74.98
+Indonesia|Kalimantan|Kalimantan Barat|61.06,Indonesia|Kalimantan|Kalimantan Barat,Kapuas Hulu,3,22.59,67.67
+Indonesia|Kalimantan|Kalimantan Barat|61.04,Indonesia|Kalimantan|Kalimantan Barat,Ketapang,3,49.95,68.68
+Indonesia|Papua|Papua|91.20,Indonesia|Papua|Papua,Mamberamo Raya,3,7.56,54.08
+Indonesia|Kalimantan|Kalimantan Timur|64.02,Indonesia|Kalimantan|Kalimantan Timur,Kutai Kartanegara,3,60.86,75.3
+Indonesia|Papua|Papua Selatan|93.04,Indonesia|Papua|Papua Selatan,Asmat,3,25.58,53.19
+Indonesia|Papua|Papua Selatan|93.03,Indonesia|Papua|Papua Selatan,Mappi,3,26.82,60.57
+Indonesia|Kalimantan|Kalimantan Tengah|62.12,Indonesia|Kalimantan|Kalimantan Tengah,Murung Raya,3,7.81,69.42
+Indonesia|Papua|Papua Selatan|93.02,Indonesia|Papua|Papua Selatan,Boven Digoel,3,14.25,63.46
+Indonesia|Kalimantan|Kalimantan Barat|61.05,Indonesia|Kalimantan|Kalimantan Barat,Sintang,3,35.49,68.67
+Indonesia|Kalimantan|Kalimantan Timur|64.03,Indonesia|Kalimantan|Kalimantan Timur,Berau,3,13.26,76.21
+Indonesia|Kalimantan|Kalimantan Tengah|62.06,Indonesia|Kalimantan|Kalimantan Tengah,Katingan,3,8.95,70.28
+Indonesia|Papua|Papua Barat|92.06,Indonesia|Papua|Papua Barat,Teluk Bintuni,3,19.82,66.0
+Indonesia|Papua|Papua Tengah|94.04,Indonesia|Papua|Papua Tengah,Mimika,3,30.31,75.91
+Indonesia|Kalimantan|Kalimantan Timur|64.11,Indonesia|Kalimantan|Kalimantan Timur,Mahakam Ulu,3,3.06,69.59
+Indonesia|Sumatera|Sumatera Selatan|16.02,Indonesia|Sumatera|Sumatera Selatan,Ogan Komering Ilir,3,114.48,68.65
+Indonesia|Kalimantan|Kalimantan Tengah|62.03,Indonesia|Kalimantan|Kalimantan Tengah,Kapuas,3,19.19,70.75
+Indonesia|Papua|Papua Barat|92.08,Indonesia|Papua|Papua Barat,Kaimana,3,9.9,66.72
+Indonesia|Kalimantan|Kalimantan Tengah|62.02,Indonesia|Kalimantan|Kalimantan Tengah,Kotawaringin Timur,3,26.57,72.21
+Indonesia|Papua|Papua Pegunungan|95.02,Indonesia|Papua|Papua Pegunungan,Pegunungan Bintang,3,23.32,48.18
+Indonesia|Kalimantan|Kalimantan Tengah|62.07,Indonesia|Kalimantan|Kalimantan Tengah,Seruyan,3,15.71,68.68
+Indonesia|Papua|Papua Pegunungan|95.03,Indonesia|Papua|Papua Pegunungan,Yahukimo,3,72.14,51.19
+Indonesia|Sumatera|Sumatera Selatan|16.06,Indonesia|Sumatera|Sumatera Selatan,Musi Banyuasin,3,101.63,69.17
+Indonesia|Papua|Papua|91.03,Indonesia|Papua|Papua,Jayapura,3,14.91,73.5
+Indonesia|Papua|Papua|91.10,Indonesia|Papua|Papua,Sarmi,3,5.45,65.8
+Indonesia|Kalimantan|Kalimantan Utara|65.01,Indonesia|Kalimantan|Kalimantan Utara,Bulungan,3,12.19,72.72
+Indonesia|Kalimantan|Kalimantan Timur|64.07,Indonesia|Kalimantan|Kalimantan Timur,Kutai Barat,3,14.69,73.72
+Indonesia|Kalimantan|Kalimantan Utara|65.03,Indonesia|Kalimantan|Kalimantan Utara,Nunukan,3,11.88,67.7
+Indonesia|Sumatera|Riau|14.04,Indonesia|Sumatera|Riau,Indragiri Hilir,3,40.86,67.98
+Indonesia|Sumatera|Riau|14.05,Indonesia|Sumatera|Riau,Pelalawan,3,45.3,73.59
+Indonesia|Kalimantan|Kalimantan Barat|61.03,Indonesia|Kalimantan|Kalimantan Barat,Sanggau,3,23.34,67.77
+Indonesia|Sumatera|Sumatera Selatan|16.07,Indonesia|Sumatera|Sumatera Selatan,Banyuasin,3,85.88,68.65
+Indonesia|Papua|Papua Tengah|91.04,Indonesia|Papua|Papua Tengah,Nabire,3,34.83,70.84
+Indonesia|Papua|Papua Barat Daya|92.09,Indonesia|Papua|Papua Barat Daya,Tambrauw,3,5.13,55.55
+Indonesia|Papua|Papua|91.15,Indonesia|Papua|Papua,Waropen,3,9.86,66.46
+Indonesia|Kalimantan|Kalimantan Timur|64.01,Indonesia|Kalimantan|Kalimantan Timur,Paser,3,26.39,74.14
+Indonesia|Sumatera|Riau|14.01,Indonesia|Sumatera|Riau,Kampar,3,63.84,74.24
+Indonesia|Kalimantan|Kalimantan Barat|61.10,Indonesia|Kalimantan|Kalimantan Barat,Melawi,3,24.18,67.76
+Indonesia|Kalimantan|Kalimantan Tengah|62.05,Indonesia|Kalimantan|Kalimantan Tengah,Barito Utara,3,7.14,71.84
+Indonesia|Papua|Papua Barat|92.03,Indonesia|Papua|Papua Barat,Fak Fak,3,17.84,69.72
+Indonesia|Kalimantan|Kalimantan Tengah|62.11,Indonesia|Kalimantan|Kalimantan Tengah,Pulang Pisau,3,5.92,69.6
+Indonesia|Kalimantan|Kalimantan Tengah|62.01,Indonesia|Kalimantan|Kalimantan Tengah,Kotawaringin Barat,3,13.44,74.04
+Indonesia|Kalimantan|Kalimantan Selatan|63.02,Indonesia|Kalimantan|Kalimantan Selatan,Kotabaru,3,15.32,70.18
+Indonesia|Kalimantan|Kalimantan Tengah|62.10,Indonesia|Kalimantan|Kalimantan Tengah,Gunung Mas,3,6.55,72.09
+Indonesia|Sumatera|Riau|14.07,Indonesia|Sumatera|Riau,Rokan Hilir,3,53.04,70.78
+Indonesia|Papua|Papua|91.11,Indonesia|Papua|Papua,Keerom,3,9.32,68.08
+Indonesia|Sulawesi|Sulawesi Tengah|72.12,Indonesia|Sulawesi|Sulawesi Tengah,Morowali Utara,3,17.66,69.73
+Indonesia|Sumatera|Riau|14.03,Indonesia|Sumatera|Riau,Bengkalis,3,36.1,74.97
+Indonesia|Kalimantan|Kalimantan Barat|61.12,Indonesia|Kalimantan|Kalimantan Barat,Kubu Raya,3,25.33,69.6
+Indonesia|Kalimantan|Kalimantan Barat|61.08,Indonesia|Kalimantan|Kalimantan Barat,Landak,3,38.92,68.14
+Indonesia|Sulawesi|Sulawesi Tengah|72.01,Indonesia|Sulawesi|Sulawesi Tengah,Banggai,3,27.38,71.7
+Indonesia|Maluku|Maluku|81.01,Indonesia|Maluku|Maluku,Maluku Tengah,3,67.22,72.45
+Indonesia|Papua|Papua Barat Daya|92.01,Indonesia|Papua|Papua Barat Daya,Sorong,3,26.27,67.49
+Indonesia|Sumatera|Riau|14.02,Indonesia|Sumatera|Riau,Indragiri Hulu,3,27.4,71.04
+Indonesia|Maluku|Maluku Utara|82.04,Indonesia|Maluku|Maluku Utara,Halmahera Selatan,3,13.65,65.83
+Indonesia|Sumatera|Riau|14.08,Indonesia|Sumatera|Riau,Siak,3,26.99,74.98
+Indonesia|Maluku|Maluku|81.07,Indonesia|Maluku|Maluku,Kepulauan Aru,3,23.13,65.01
+Indonesia|Kalimantan|Kalimantan Tengah|62.09,Indonesia|Kalimantan|Kalimantan Tengah,Lamandau,3,2.63,71.81
+Indonesia|Sumatera|Riau|14.06,Indonesia|Sumatera|Riau,Rokan Hulu,3,74.38,71.02
+Indonesia|Sulawesi|Sulawesi Tengah|72.02,Indonesia|Sulawesi|Sulawesi Tengah,Poso,3,41.48,72.48
+Indonesia|Sumatera|Jambi|15.02,Indonesia|Sumatera|Jambi,Merangin,3,35.19,70.81
+Indonesia|Sulawesi|Sulawesi Selatan|73.22,Indonesia|Sulawesi|Sulawesi Selatan,Luwu Utara,3,40.79,71.34
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.11,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Sumba Timur,3,75.66,67.05
+Indonesia|Papua|Papua Barat Daya|92.05,Indonesia|Papua|Papua Barat Daya,Raja Ampat,3,8.51,65.26
+Indonesia|Sumatera|Sumatera Selatan|16.03,Indonesia|Sumatera|Sumatera Selatan,Muara Enim,3,73.24,70.24
+Indonesia|Sulawesi|Sulawesi Selatan|73.24,Indonesia|Sulawesi|Sulawesi Selatan,Luwu Timur,3,21.57,74.35
+Indonesia|Papua|Papua Tengah|94.05,Indonesia|Papua|Papua Tengah,Puncak,3,42.01,44.59
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.04,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Sumbawa,3,67.4,69.87
+Indonesia|Papua|Papua Barat Daya|92.04,Indonesia|Papua|Papua Barat Daya,Sorong Selatan,3,9.35,63.94
+Indonesia|Papua|Papua Tengah|94.07,Indonesia|Papua|Papua Tengah,Intan Jaya,3,21.16,50.19
+Indonesia|Sumatera|Sumatera Utara|12.13,Indonesia|Sumatera|Sumatera Utara,Mandailing Natal,3,41.04,68.56
+Indonesia|Maluku|Maluku Utara|82.06,Indonesia|Maluku|Maluku Utara,Halmahera Timur,3,12.59,68.82
+Indonesia|Kalimantan|Kalimantan Tengah|62.04,Indonesia|Kalimantan|Kalimantan Tengah,Barito Selatan,3,6.66,71.65
+Indonesia|Papua|Papua Pegunungan|95.08,Indonesia|Papua|Papua Pegunungan,Nduga,3,43.27,35.19
+Indonesia|Sumatera|Sumatera Utara|12.05,Indonesia|Sumatera|Sumatera Utara,Langkat,3,98.16,72.21
+Indonesia|Sumatera|Sumatera Selatan|16.05,Indonesia|Sumatera|Sumatera Selatan,Musi Rawas,3,59.75,68.26
+Indonesia|Sumatera|Jambi|15.09,Indonesia|Sumatera|Jambi,Tebo,3,23.47,70.63
+Indonesia|Sumatera|Sumatera Barat|13.01,Indonesia|Sumatera|Sumatera Barat,Pesisir Selatan,3,35.09,71.44
+Indonesia|Kalimantan|Kalimantan Barat|61.09,Indonesia|Kalimantan|Kalimantan Barat,Sekadau,3,12.09,66.33
+Indonesia|Papua|Papua Tengah|94.02,Indonesia|Papua|Papua Tengah,Puncak Jaya,3,47.5,50.81
+Indonesia|Sumatera|Sumatera Selatan|16.13,Indonesia|Sumatera|Sumatera Selatan,Musi Rawas Utara,3,36.68,66.6
+Indonesia|Sumatera|Jambi|15.03,Indonesia|Sumatera|Jambi,Sarolangun,3,26.77,71.29
+Indonesia|Kalimantan|Kalimantan Barat|61.01,Indonesia|Kalimantan|Kalimantan Barat,Sambas,3,38.71,68.69
+Indonesia|Sumatera|Sumatera Barat|13.09,Indonesia|Sumatera|Sumatera Barat,Kepulauan Mentawai,3,13.76,63.13
+Indonesia|Sulawesi|Sulawesi Tengah|72.08,Indonesia|Sulawesi|Sulawesi Tengah,Parigi Moutong,3,77.18,67.11
+Indonesia|Maluku|Maluku|81.05,Indonesia|Maluku|Maluku,Seram Bagian Timur,3,24.26,65.82
+Indonesia|Sumatera|Aceh|11.13,Indonesia|Sumatera|Aceh,Gayo Lues,3,18.24,68.93
+Indonesia|Sulawesi|Sulawesi Tengah|72.09,Indonesia|Sulawesi|Sulawesi Tengah,Tojo Una Una,3,26.51,66.39
+Indonesia|Kalimantan|Kalimantan Barat|61.07,Indonesia|Kalimantan|Kalimantan Barat,Bengkayang,3,16.87,69.53
+Indonesia|Sumatera|Riau|14.09,Indonesia|Sumatera|Riau,Kuantan Singingi,3,26.1,71.67
+Indonesia|Sumatera|Jambi|15.04,Indonesia|Sumatera|Jambi,Batanghari,3,25.88,71.02
+Indonesia|Sumatera|Aceh|11.03,Indonesia|Sumatera|Aceh,Aceh Timur,3,60.63,69.32
+Indonesia|Papua|Papua Barat Daya|92.10,Indonesia|Papua|Papua Barat Daya,Maybrat,3,13.57,61.29
+Indonesia|Sulawesi|Sulawesi Tenggara|74.02,Indonesia|Sulawesi|Sulawesi Tenggara,Konawe,3,33.09,72.77
+Indonesia|Sumatera|Jambi|15.05,Indonesia|Sumatera|Jambi,Muaro Jambi,3,20.83,71.04
+Indonesia|Sulawesi|Sulawesi Tengah|72.10,Indonesia|Sulawesi|Sulawesi Tengah,Sigi,3,31.47,69.93
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.01,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Kupang,3,90.23,65.82
+Indonesia|Papua|Papua Tengah|91.08,Indonesia|Papua|Papua Tengah,Paniai,3,61.14,57.91
+Indonesia|Sulawesi|Sulawesi Tengah|72.03,Indonesia|Sulawesi|Sulawesi Tengah,Donggala,3,50.37,66.95
+Indonesia|Sumatera|Jambi|15.07,Indonesia|Sumatera|Jambi,Tanjung Jabung Timur,3,23.33,66.65
+Indonesia|Sumatera|Jambi|15.06,Indonesia|Sumatera|Jambi,Tanjung Jabung Barat,3,33.61,69.35
+Indonesia|Maluku|Maluku|81.06,Indonesia|Maluku|Maluku,Seram Bagian Barat,3,38.87,67.56
+Indonesia|Sulawesi|Sulawesi Barat|76.02,Indonesia|Sulawesi|Sulawesi Barat,Mamuju,3,23.5,69.61
+Indonesia|Maluku|Maluku|81.04,Indonesia|Maluku|Maluku,Buru,3,25.19,70.56
+Indonesia|Kalimantan|Kalimantan Selatan|63.10,Indonesia|Kalimantan|Kalimantan Selatan,Tanah Bumbu,3,17.17,72.31
+Indonesia|Papua|Papua Barat|92.07,Indonesia|Papua|Papua Barat,Teluk Wondama,3,10.24,61.67
+Indonesia|Sumatera|Jambi|15.08,Indonesia|Sumatera|Jambi,Bungo,3,20.65,71.06
+Indonesia|Sumatera|Sumatera Utara|12.08,Indonesia|Sumatera|Sumatera Utara,Simalungun,3,69.21,74.29
+Indonesia|Kalimantan|Kalimantan Selatan|63.03,Indonesia|Kalimantan|Kalimantan Selatan,Banjar,3,14.77,71.46
+Indonesia|Sulawesi|Sulawesi Selatan|73.08,Indonesia|Sulawesi|Sulawesi Selatan,Bone,3,80.12,67.81
+Indonesia|Sumatera|Lampung|18.02,Indonesia|Sumatera|Lampung,Lampung Tengah,3,140.29,71.6
+Indonesia|Maluku|Maluku|81.08,Indonesia|Maluku|Maluku,Maluku Barat Daya,3,21.23,63.93
+Indonesia|Sumatera|Bengkulu|17.03,Indonesia|Sumatera|Bengkulu,Bengkulu Utara,3,35.26,70.28
+Indonesia|Sumatera|Aceh|11.04,Indonesia|Sumatera|Aceh,Aceh Tengah,3,31.68,74.6
+Indonesia|Papua|Papua Tengah|94.06,Indonesia|Papua|Papua Tengah,Dogiyai,3,29.32,56.7
+Indonesia|Sulawesi|Sulawesi Tengah|72.06,Indonesia|Sulawesi|Sulawesi Tengah,Morowali,3,15.75,73.02
+Indonesia|Sumatera|Sumatera Selatan|16.09,Indonesia|Sumatera|Sumatera Selatan,Ogan Komering Ulu Selatan,3,39.3,66.67
+Indonesia|Maluku|Maluku|81.03,Indonesia|Maluku|Maluku,Kepulauan Tanimbar,3,27.64,64.16
+Indonesia|Sulawesi|Gorontalo|75.04,Indonesia|Sulawesi|Gorontalo,Pohuwato,3,29.39,67.15
+Indonesia|Sumatera|Sumatera Selatan|16.04,Indonesia|Sumatera|Sumatera Selatan,Lahat,3,63.36,69.1
+Indonesia|Sumatera|Sumatera Utara|12.03,Indonesia|Sumatera|Sumatera Utara,Tapanuli Selatan,3,20.09,71.55
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.06,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Bima,3,74.74,68.28
+Indonesia|Sulawesi|Sulawesi Tenggara|74.05,Indonesia|Sulawesi|Sulawesi Tenggara,Konawe Selatan,3,36.84,70.32
+Indonesia|Jawa|Jawa Barat|32.02,Indonesia|Jawa|Jawa Barat,Sukabumi,3,178.71,68.49
+Indonesia|Sulawesi|Sulawesi Tenggara|74.09,Indonesia|Sulawesi|Sulawesi Tenggara,Konawe Utara,3,9.01,71.71
+Indonesia|Sumatera|Aceh|11.02,Indonesia|Sumatera|Aceh,Aceh Tenggara,3,27.96,71.05
+Indonesia|Sumatera|Aceh|11.01,Indonesia|Sumatera|Aceh,Aceh Selatan,3,30.36,68.44
+Indonesia|Sumatera|Bengkulu|17.06,Indonesia|Sumatera|Bengkulu,Muko Muko,3,20.7,69.97
+Indonesia|Kalimantan|Kalimantan Barat|61.11,Indonesia|Kalimantan|Kalimantan Barat,Kayong Utara,3,10.77,64.79
+Indonesia|Sulawesi|Sulawesi Tenggara|74.11,Indonesia|Sulawesi|Sulawesi Tenggara,Kolaka Timur,3,20.41,69.57
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.02,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Timor Tengah Selatan,3,119.51,63.58
+Indonesia|Sumatera|Sumatera Utara|12.20,Indonesia|Sumatera|Sumatera Utara,Padang Lawas Utara,3,26.17,71.63
+Indonesia|Sumatera|Sumatera Utara|12.21,Indonesia|Sumatera|Sumatera Utara,Padang Lawas,3,24.51,70.34
+Indonesia|Sumatera|Sumatera Barat|13.08,Indonesia|Sumatera|Sumatera Barat,Pasaman,3,19.99,68.13
+Indonesia|Sumatera|Sumatera Utara|12.02,Indonesia|Sumatera|Sumatera Utara,Tapanuli Utara,3,26.39,74.65
+Indonesia|Sumatera|Aceh|11.14,Indonesia|Sumatera|Aceh,Aceh Jaya,3,12.22,70.88
+Indonesia|Sumatera|Lampung|18.07,Indonesia|Sumatera|Lampung,Lampung Timur,3,148.26,71.21
+Indonesia|Kalimantan|Kalimantan Selatan|63.01,Indonesia|Kalimantan|Kalimantan Selatan,Tanah Laut,3,13.22,70.98
+Indonesia|Sumatera|Sumatera Barat|13.12,Indonesia|Sumatera|Sumatera Barat,Pasaman Barat,3,33.52,70.19
+Indonesia|Sumatera|Sumatera Utara|12.09,Indonesia|Sumatera|Sumatera Utara,Asahan,3,61.69,71.56
+Indonesia|Sumatera|Sumatera Selatan|16.01,Indonesia|Sumatera|Sumatera Selatan,Ogan Komering Ulu,3,44.11,71.01
+Indonesia|Papua|Papua Pegunungan|95.04,Indonesia|Papua|Papua Pegunungan,Tolikara,3,48.4,51.48
+Indonesia|Papua|Papua Pegunungan|95.06,Indonesia|Papua|Papua Pegunungan,Yalimo,3,21.67,50.87
+Indonesia|Sulawesi|Sulawesi Tengah|72.05,Indonesia|Sulawesi|Sulawesi Tengah,Buol,3,23.13,69.57
+Indonesia|Sumatera|Sumatera Utara|12.23,Indonesia|Sumatera|Sumatera Utara,Labuhanbatu Utara,3,34.13,73.63
+Indonesia|Sulawesi|Sulawesi Tengah|72.04,Indonesia|Sulawesi|Sulawesi Tengah,Toli Toli,3,31.13,67.66
+Indonesia|Maluku|Maluku|81.09,Indonesia|Maluku|Maluku,Buru Selatan,3,9.77,66.23
+Indonesia|Jawa|Jawa Barat|32.03,Indonesia|Jawa|Jawa Barat,Cianjur,3,240.06,66.55
+Indonesia|Jawa|Jawa Timur|35.10,Indonesia|Jawa|Jawa Timur,Banyuwangi,3,119.52,72.61
+Indonesia|Sumatera|Riau|14.10,Indonesia|Sumatera|Riau,Kepulauan Meranti,3,43.82,67.28
+Indonesia|Jawa|Jawa Timur|35.07,Indonesia|Jawa|Jawa Timur,Malang,3,251.36,72.16
+Indonesia|Sumatera|Sumatera Barat|13.02,Indonesia|Sumatera|Sumatera Barat,Solok,3,27.33,70.63
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.03,Indonesia|Sumatera|Kepulauan Bangka Belitung,Bangka Selatan,3,6.66,68.51
+Indonesia|Sumatera|Lampung|18.08,Indonesia|Sumatera|Lampung,Way Kanan,3,51.26,68.63
+Indonesia|Sumatera|Aceh|11.15,Indonesia|Sumatera|Aceh,Nagan Raya,3,29.78,70.78
+Indonesia|Kalimantan|Kalimantan Selatan|63.09,Indonesia|Kalimantan|Kalimantan Selatan,Tabalong,3,15.15,73.85
+Indonesia|Kalimantan|Kalimantan Utara|65.04,Indonesia|Kalimantan|Kalimantan Utara,Tana Tidung,3,1.47,69.2
+Indonesia|Sumatera|Jambi|15.01,Indonesia|Sumatera|Jambi,Kerinci,3,18.21,72.54
+Indonesia|Sumatera|Sumatera Selatan|16.08,Indonesia|Sumatera|Sumatera Selatan,Ogan Komering Ulu Timur,3,69.91,70.96
+Indonesia|Maluku|Maluku Utara|82.03,Indonesia|Maluku|Maluku Utara,Halmahera Utara,3,9.18,69.05
+Indonesia|Papua|Papua Pegunungan|95.05,Indonesia|Papua|Papua Pegunungan,Mamberamo Tengah,3,19.83,50.22
+Indonesia|Sumatera|Sumatera Barat|13.07,Indonesia|Sumatera|Sumatera Barat,Lima Puluh Kota,3,27.02,70.7
+Indonesia|Jawa|Jawa Timur|35.09,Indonesia|Jawa|Jawa Timur,Jember,3,236.46,68.64
+Indonesia|Jawa|Banten|36.02,Indonesia|Jawa|Banten,Lebak,3,114.54,65.21
+Indonesia|Kalimantan|Kalimantan Tengah|62.08,Indonesia|Kalimantan|Kalimantan Tengah,Sukamara,3,2.71,69.44
+Indonesia|Papua|Papua Barat|92.12,Indonesia|Papua|Papua Barat,Pegunungan Arfak,3,11.71,57.82
+Indonesia|Sulawesi|Sulawesi Utara|71.01,Indonesia|Sulawesi|Sulawesi Utara,Bolaang Mongondow,3,19.02,69.62
+Indonesia|Sulawesi|Sulawesi Tenggara|74.06,Indonesia|Sulawesi|Sulawesi Tenggara,Bombana,3,20.52,67.43
+Indonesia|Sumatera|Sumatera Barat|13.11,Indonesia|Sumatera|Sumatera Barat,Solok Selatan,3,11.91,70.58
+Indonesia|Kalimantan|Kalimantan Timur|64.09,Indonesia|Kalimantan|Kalimantan Timur,Penajam Paser Utara,3,11.19,73.3
+Indonesia|Sumatera|Aceh|11.07,Indonesia|Sumatera|Aceh,Pidie,3,86.79,71.66
+Indonesia|Sumatera|Sumatera Barat|13.03,Indonesia|Sumatera|Sumatera Barat,Sijunjung,3,15.02,69.65
+Indonesia|Kalimantan|Kalimantan Tengah|62.13,Indonesia|Kalimantan|Kalimantan Tengah,Barito Timur,3,8.59,72.7
+Indonesia|Jawa|Jawa Barat|32.05,Indonesia|Jawa|Jawa Barat,Garut,3,260.48,68.11
+Indonesia|Jawa|Jawa Barat|32.01,Indonesia|Jawa|Jawa Barat,Bogor,3,453.76,71.78
+Indonesia|Sumatera|Lampung|18.05,Indonesia|Sumatera|Lampung,Tulang Bawang,3,37.83,70.02
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.15,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Manggarai Barat,3,49.95,65.81
+Indonesia|Sumatera|Sumatera Utara|12.22,Indonesia|Sumatera|Sumatera Utara,Labuhanbatu Selatan,3,29.83,72.82
+Indonesia|Sulawesi|Sulawesi Barat|76.03,Indonesia|Sulawesi|Sulawesi Barat,Mamasa,3,23.58,67.83
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.01,Indonesia|Sumatera|Kepulauan Bangka Belitung,Bangka,3,14.87,73.66
+Indonesia|Sumatera|Lampung|18.06,Indonesia|Sumatera|Lampung,Tanggamus,3,65.18,67.86
+Indonesia|Maluku|Maluku Utara|82.08,Indonesia|Maluku|Maluku Utara,Pulau Taliabu,3,4.03,62.31
+Indonesia|Sulawesi|Sulawesi Tenggara|74.01,Indonesia|Sulawesi|Sulawesi Tenggara,Kolaka,3,32.96,74.72
+Indonesia|Sumatera|Lampung|18.13,Indonesia|Sumatera|Lampung,Pesisir Barat,3,21.45,66.0
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.05,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Alor,3,41.91,62.99
+Indonesia|Sulawesi|Sulawesi Tenggara|74.08,Indonesia|Sulawesi|Sulawesi Tenggara,Kolaka Utara,3,21.79,71.04
+Indonesia|Sumatera|Sumatera Barat|13.10,Indonesia|Sumatera|Sumatera Barat,Dharmasraya,3,15.49,73.04
+Indonesia|Sulawesi|Sulawesi Selatan|73.17,Indonesia|Sulawesi|Sulawesi Selatan,Luwu,3,47.67,72.16
+Indonesia|Sulawesi|Sulawesi Barat|76.01,Indonesia|Sulawesi|Sulawesi Barat,Pasangkayu,3,8.94,69.11
+Indonesia|Sumatera|Aceh|11.06,Indonesia|Sumatera|Aceh,Aceh Besar,3,58.94,74.53
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.05,Indonesia|Sumatera|Kepulauan Bangka Belitung,Bangka Barat,3,5.91,70.45
+Indonesia|Kalimantan|Kalimantan Tengah|62.71,Indonesia|Kalimantan|Kalimantan Tengah,Kota Palangkaraya,3,10.31,81.68
+Indonesia|Sumatera|Aceh|11.05,Indonesia|Sumatera|Aceh,Aceh Barat,3,38.84,72.88
+Indonesia|Sumatera|Sumatera Utara|12.10,Indonesia|Sumatera|Sumatera Utara,Labuhanbatu,3,42.58,73.69
+Indonesia|Jawa|Banten|36.01,Indonesia|Jawa|Banten,Pandeglang,3,114.23,66.42
+Indonesia|Papua|Papua Barat|92.02,Indonesia|Papua|Papua Barat,Manokwari,3,33.35,73.21
+Indonesia|Sulawesi|Sulawesi Barat|76.06,Indonesia|Sulawesi|Sulawesi Barat,Mamuju Tengah,3,10.39,67.45
+Indonesia|Jawa|Jawa Barat|32.06,Indonesia|Jawa|Jawa Barat,Tasikmalaya,3,186.87,67.76
+Indonesia|Sumatera|Aceh|11.08,Indonesia|Sumatera|Aceh,Aceh Utara,3,106.77,70.87
+Indonesia|Sumatera|Lampung|18.03,Indonesia|Sumatera|Lampung,Lampung Utara,3,107.21,68.95
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.03,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Timor Tengah Utara,3,57.19,65.16
+Indonesia|Sulawesi|Sulawesi Selatan|73.13,Indonesia|Sulawesi|Sulawesi Selatan,Wajo,3,27.54,71.1
+Indonesia|Sumatera|Bengkulu|17.04,Indonesia|Sumatera|Bengkulu,Kaur,3,22.45,68.38
+Indonesia|Papua|Papua Pegunungan|95.01,Indonesia|Papua|Papua Pegunungan,Jayawijaya,3,73.42,60.5
+Indonesia|Sumatera|Sumatera Utara|12.07,Indonesia|Sumatera|Sumatera Utara,Deli Serdang,3,82.75,76.52
+Indonesia|Papua|Papua Tengah|91.28,Indonesia|Papua|Papua Tengah,Deiyai,3,30.18,51.18
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.06,Indonesia|Sumatera|Kepulauan Bangka Belitung,Belitung Timur,3,8.89,72.86
+Indonesia|Sumatera|Sumatera Utara|12.14,Indonesia|Sumatera|Sumatera Utara,Nias Selatan,3,54.29,64.12
+Indonesia|Sumatera|Bengkulu|17.05,Indonesia|Sumatera|Bengkulu,Seluma,3,36.32,68.27
+Indonesia|Kalimantan|Kalimantan Selatan|63.04,Indonesia|Kalimantan|Kalimantan Selatan,Barito Kuala,3,14.71,68.11
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.19,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Manggarai Timur,3,74.4,63.24
+Indonesia|Papua|Papua|91.05,Indonesia|Papua|Papua,Kepulauan Yapen,3,26.03,69.11
+Indonesia|Sulawesi|Sulawesi Tengah|72.07,Indonesia|Sulawesi|Sulawesi Tengah,Banggai Kepulauan,3,15.5,66.82
+Indonesia|Sumatera|Sumatera Utara|12.16,Indonesia|Sumatera|Sumatera Utara,Humbang Hasundutan,3,17.14,70.75
+Indonesia|Maluku|Maluku Utara|82.07,Indonesia|Maluku|Maluku Utara,Pulau Morotai,3,3.81,64.73
+Indonesia|Jawa|Jawa Timur|35.22,Indonesia|Jawa|Jawa Timur,Bojonegoro,3,153.25,70.85
+Indonesia|Jawa|Jawa Tengah|33.01,Indonesia|Jawa|Jawa Tengah,Cilacap,3,191.0,71.83
+Indonesia|Sumatera|Sumatera Utara|12.01,Indonesia|Sumatera|Sumatera Utara,Tapanuli Tengah,3,47.09,70.91
+Indonesia|Sumatera|Sumatera Selatan|16.10,Indonesia|Sumatera|Sumatera Selatan,Ogan Ilir,3,59.33,68.76
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.05,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Dompu,3,34.38,69.98
+Indonesia|Sumatera|Sumatera Utara|12.12,Indonesia|Sumatera|Sumatera Utara,Toba,3,14.94,76.38
+Indonesia|Papua|Papua Pegunungan|95.07,Indonesia|Papua|Papua Pegunungan,Lanny Jaya,3,76.43,50.56
+Indonesia|Maluku|Maluku Utara|82.02,Indonesia|Maluku|Maluku Utara,Halmahera Tengah,3,6.74,67.48
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.04,Indonesia|Sumatera|Kepulauan Bangka Belitung,Bangka Tengah,3,10.58,71.71
+Indonesia|Sumatera|Sumatera Barat|13.06,Indonesia|Sumatera|Sumatera Barat,Agam,3,33.41,73.98
+Indonesia|Sumatera|Sumatera Selatan|16.11,Indonesia|Sumatera|Sumatera Selatan,Empat Lawang,3,30.78,66.68
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.02,Indonesia|Sumatera|Kepulauan Bangka Belitung,Belitung,3,12.51,74.02
+Indonesia|Maluku|Maluku Utara|82.01,Indonesia|Maluku|Maluku Utara,Halmahera Barat,3,10.53,66.91
+Indonesia|Sumatera|Sumatera Utara|12.06,Indonesia|Sumatera|Sumatera Utara,Karo,3,35.65,75.98
+Indonesia|Sumatera|Lampung|18.01,Indonesia|Sumatera|Lampung,Lampung Selatan,3,133.67,69.63
+Indonesia|Sumatera|Lampung|18.11,Indonesia|Sumatera|Lampung,Mesuji,3,13.71,65.64
+Indonesia|Sumatera|Aceh|11.16,Indonesia|Sumatera|Aceh,Aceh Tamiang,3,38.37,71.35
+Indonesia|Papua|Papua|91.06,Indonesia|Papua|Papua,Biak Numfor,3,35.7,73.46
+Indonesia|Jawa|Jawa Barat|32.13,Indonesia|Jawa|Jawa Barat,Subang,3,152.33,70.7
+Indonesia|Sulawesi|Gorontalo|75.01,Indonesia|Sulawesi|Gorontalo,Gorontalo,3,65.88,69.09
+Indonesia|Kalimantan|Kalimantan Selatan|63.05,Indonesia|Kalimantan|Kalimantan Selatan,Tapin,3,6.22,72.0
+Indonesia|Sumatera|Lampung|18.04,Indonesia|Sumatera|Lampung,Lampung Barat,3,34.73,69.11
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.08,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Ende,3,63.1,68.63
+Indonesia|Jawa|Jawa Barat|32.12,Indonesia|Jawa|Jawa Barat,Indramayu,3,214.74,69.25
+Indonesia|Sumatera|Sumatera Utara|12.11,Indonesia|Sumatera|Sumatera Utara,Dairi,3,21.42,73.27
+Indonesia|Sulawesi|Sulawesi Barat|76.04,Indonesia|Sulawesi|Sulawesi Barat,Polewali Mandar,3,71.92,65.59
+Indonesia|Sumatera|Riau|14.72,Indonesia|Sumatera|Riau,Kota Dumai,3,10.15,75.66
+Indonesia|Sulawesi|Sulawesi Selatan|73.18,Indonesia|Sulawesi|Sulawesi Selatan,Tana Toraja,3,30.23,70.73
+Indonesia|Jawa|Jawa Tengah|33.15,Indonesia|Jawa|Jawa Tengah,Grobogan,3,162.52,71.49
+Indonesia|Sumatera|Sumatera Utara|12.18,Indonesia|Sumatera|Sumatera Utara,Serdang Bedagai,3,45.88,71.75
+Indonesia|Sumatera|Kepulauan Riau|21.04,Indonesia|Sumatera|Kepulauan Riau,Lingga,3,10.18,67.44
+Indonesia|Jawa|Jawa Timur|35.23,Indonesia|Jawa|Jawa Timur,Tuban,3,177.25,70.34
+Indonesia|Jawa|Jawa Timur|35.29,Indonesia|Jawa|Jawa Timur,Sumenep,3,206.1,68.61
+Indonesia|Jawa|Jawa Tengah|33.16,Indonesia|Jawa|Jawa Tengah,Blora,3,99.61,70.63
+Indonesia|Jawa|Jawa Barat|32.15,Indonesia|Jawa|Jawa Barat,Karawang,3,187.23,72.35
+Indonesia|Kalimantan|Kalimantan Barat|61.02,Indonesia|Kalimantan|Kalimantan Barat,Mempawah,3,14.15,67.92
+Indonesia|Jawa|Jawa Tengah|33.12,Indonesia|Jawa|Jawa Tengah,Wonogiri,3,104.82,71.97
+Indonesia|Sumatera|Aceh|11.17,Indonesia|Sumatera|Aceh,Bener Meriah,3,28.19,74.49
+Indonesia|Sumatera|Kepulauan Riau|21.03,Indonesia|Sumatera|Kepulauan Riau,Natuna,3,4.3,74.21
+Indonesia|Sulawesi|Sulawesi Selatan|73.15,Indonesia|Sulawesi|Sulawesi Selatan,Pinrang,3,34.23,72.84
+Indonesia|Sulawesi|Gorontalo|75.03,Indonesia|Sulawesi|Gorontalo,Bone Bolango,3,24.72,71.51
+Indonesia|Sumatera|Aceh|11.12,Indonesia|Sumatera|Aceh,Aceh Barat Daya,3,24.31,68.07
+Indonesia|Sulawesi|Sulawesi Tenggara|74.03,Indonesia|Sulawesi|Sulawesi Tenggara,Muna,3,32.24,70.16
+Indonesia|Sumatera|Sumatera Utara|12.17,Indonesia|Sumatera|Sumatera Utara,Samosir,3,14.86,72.08
+Indonesia|Sumatera|Sumatera Selatan|16.12,Indonesia|Sumatera|Sumatera Selatan,Penukal Abab Lematang Ilir,3,21.72,66.64
+Indonesia|Papua|Papua Barat|92.11,Indonesia|Papua|Papua Barat,Manokwari Selatan,3,7.69,61.55
+Indonesia|Sulawesi|Sulawesi Selatan|73.14,Indonesia|Sulawesi|Sulawesi Selatan,Sidenreng Rappang,3,15.75,72.71
+Indonesia|Kalimantan|Kalimantan Selatan|63.11,Indonesia|Kalimantan|Kalimantan Selatan,Balangan,3,7.07,70.49
+Indonesia|Sulawesi|Gorontalo|75.02,Indonesia|Sulawesi|Gorontalo,Boalemo,3,31.94,68.18
+Indonesia|Sumatera|Aceh|11.10,Indonesia|Sumatera|Aceh,Aceh Singkil,3,24.62,70.14
+Indonesia|Sulawesi|Sulawesi Selatan|73.06,Indonesia|Sulawesi|Sulawesi Selatan,Gowa,3,59.1,71.57
+Indonesia|Jawa|Jawa Timur|35.08,Indonesia|Jawa|Jawa Timur,Lumajang,3,93.82,67.87
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.17,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Sumba Tengah,3,24.24,63.48
+Indonesia|Sulawesi|Sulawesi Selatan|73.16,Indonesia|Sulawesi|Sulawesi Selatan,Enrekang,3,26.97,73.89
+Indonesia|Sumatera|Aceh|11.11,Indonesia|Sumatera|Aceh,Bireuen,3,59.21,73.63
+Indonesia|Jawa|Jawa Timur|35.05,Indonesia|Jawa|Jawa Timur,Blitar,3,101.94,72.49
+Indonesia|Sumatera|Aceh|11.09,Indonesia|Sumatera|Aceh,Simeulue,3,17.62,68.06
+Indonesia|Sulawesi|Sulawesi Utara|71.11,Indonesia|Sulawesi|Sulawesi Utara,Bolaang Mongondow Selatan,3,8.28,66.4
+Indonesia|Maluku|Maluku Utara|82.05,Indonesia|Maluku|Maluku Utara,Kepulauan Sula,3,8.45,65.29
+Indonesia|Jawa|Jawa Timur|35.24,Indonesia|Jawa|Jawa Timur,Lamongan,3,149.94,74.53
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.06,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Flores Timur,3,30.93,65.79
+Indonesia|Jawa|Jawa Tengah|33.29,Indonesia|Jawa|Jawa Tengah,Brebes,3,286.14,67.95
+Indonesia|Jawa|Jawa Barat|32.04,Indonesia|Jawa|Jawa Barat,Bandung,3,245.49,73.74
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.07,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Sumbawa Barat,3,21.77,73.17
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.09,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Ngada,3,20.57,69.14
+Indonesia|Sulawesi|Sulawesi Tenggara|74.10,Indonesia|Sulawesi|Sulawesi Tenggara,Buton Utara,3,9.09,69.7
+Indonesia|Jawa|Jawa Timur|35.13,Indonesia|Jawa|Jawa Timur,Probolinggo,3,205.02,67.79
+Indonesia|Kalimantan|Kalimantan Selatan|63.06,Indonesia|Kalimantan|Kalimantan Selatan,Hulu Sungai Selatan,3,9.61,70.5
+Indonesia|Maluku|Maluku Utara|82.72,Indonesia|Maluku|Maluku Utara,Kota Tidore Kepulauan,3,6.48,72.4
+Indonesia|Sulawesi|Gorontalo|75.05,Indonesia|Sulawesi|Gorontalo,Gorontalo Utara,3,19.17,66.61
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.07,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Sikka,3,40.81,66.89
+Indonesia|Sulawesi|Sulawesi Tenggara|74.04,Indonesia|Sulawesi|Sulawesi Tenggara,Buton,3,14.15,68.12
+Indonesia|Jawa|Jawa Timur|35.12,Indonesia|Jawa|Jawa Timur,Situbondo,3,82.62,69.16
+Indonesia|Sumatera|Bengkulu|17.07,Indonesia|Sumatera|Bengkulu,Lebong,3,13.23,68.71
+Indonesia|Sulawesi|Sulawesi Utara|71.08,Indonesia|Sulawesi|Sulawesi Utara,Bolaang Mongondow Utara,3,6.56,68.64
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.03,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Lombok Timur,3,197.63,68.41
+Indonesia|Jawa|Jawa Barat|32.07,Indonesia|Jawa|Jawa Barat,Ciamis,3,90.84,72.05
+Indonesia|Jawa|Jawa Timur|35.06,Indonesia|Jawa|Jawa Timur,Kediri,3,171.18,73.96
+Indonesia|Jawa|Jawa Tengah|33.18,Indonesia|Jawa|Jawa Tengah,Pati,3,118.18,73.59
+Indonesia|Jawa|Jawa Barat|32.11,Indonesia|Jawa|Jawa Barat,Sumedang,3,111.39,73.18
+Indonesia|Kalimantan|Kalimantan Selatan|63.07,Indonesia|Kalimantan|Kalimantan Selatan,Hulu Sungai Tengah,3,16.01,70.13
+Indonesia|Jawa|Jawa Timur|35.11,Indonesia|Jawa|Jawa Timur,Bondowoso,3,105.13,67.99
+Indonesia|Sumatera|Bengkulu|17.02,Indonesia|Sumatera|Bengkulu,Rejang Lebong,3,41.18,72.31
+Indonesia|Jawa|Jawa Timur|35.14,Indonesia|Jawa|Jawa Timur,Pasuruan,3,154.09,70.29
+Indonesia|Jawa|Daerah Istimewa Yogyakarta|34.03,Indonesia|Jawa|Daerah Istimewa Yogyakarta,Gunungkidul,3,122.24,71.24
+Indonesia|Jawa|Banten|36.04,Indonesia|Jawa|Banten,Serang,3,73.83,68.39
+Indonesia|Sulawesi|Sulawesi Utara|71.05,Indonesia|Sulawesi|Sulawesi Utara,Minahasa Selatan,3,18.9,73.66
+Indonesia|Sulawesi|Sulawesi Selatan|73.09,Indonesia|Sulawesi|Sulawesi Selatan,Maros,3,34.96,71.63
+Indonesia|Jawa|Jawa Timur|35.01,Indonesia|Jawa|Jawa Timur,Pacitan,3,76.2,70.19
+Indonesia|Jawa|Jawa Timur|35.02,Indonesia|Jawa|Jawa Timur,Ponorogo,3,83.71,72.5
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.16,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Nagekeo,3,18.57,67.07
+Indonesia|Jawa|Jawa Timur|35.21,Indonesia|Jawa|Jawa Timur,Ngawi,3,121.3,72.47
+Indonesia|Jawa|Jawa Tengah|33.02,Indonesia|Jawa|Jawa Tengah,Banyumas,3,216.5,73.86
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.18,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Sumba Barat Daya,3,101.4,63.74
+Indonesia|Sumatera|Sumatera Barat|13.04,Indonesia|Sumatera|Sumatera Barat,Tanah Datar,3,14.57,73.98
+Indonesia|Sulawesi|Sulawesi Selatan|73.12,Indonesia|Sulawesi|Sulawesi Selatan,Soppeng,3,17.21,70.58
+Indonesia|Sumatera|Sumatera Utara|12.15,Indonesia|Sumatera|Sumatera Utara,Pakpak Bharat,3,4.01,69.58
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.10,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Manggarai,3,70.0,66.42
+Indonesia|Jawa|Jawa Tengah|33.05,Indonesia|Jawa|Jawa Tengah,Kebumen,3,195.45,71.37
+Indonesia|Sumatera|Sumatera Barat|13.05,Indonesia|Sumatera|Sumatera Barat,Padang Pariaman,3,26.93,72.61
+Indonesia|Jawa|Jawa Barat|32.10,Indonesia|Jawa|Jawa Barat,Majalengka,3,138.74,69.13
+Indonesia|Bali & Nusa Tenggara|Bali|51.08,Indonesia|Bali & Nusa Tenggara|Bali,Buleleng,3,39.52,73.97
+Indonesia|Jawa|Jawa Timur|35.26,Indonesia|Jawa|Jawa Timur,Bangkalan,3,196.66,65.75
+Indonesia|Jawa|Jawa Timur|35.18,Indonesia|Jawa|Jawa Timur,Nganjuk,3,115.86,73.71
+Indonesia|Sulawesi|Sulawesi Utara|71.02,Indonesia|Sulawesi|Sulawesi Utara,Minahasa,3,23.86,76.96
+Indonesia|Jawa|Jawa Barat|32.17,Indonesia|Jawa|Jawa Barat,Bandung Barat,3,179.43,69.61
+Indonesia|Sulawesi|Sulawesi Selatan|73.26,Indonesia|Sulawesi|Sulawesi Selatan,Toraja Utara,3,29.14,71.23
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.13,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Lembata,3,37.94,66.12
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.14,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Rote Ndao,3,53.55,64.0
+Indonesia|Sumatera|Lampung|18.09,Indonesia|Sumatera|Lampung,Pesawaran,3,59.29,67.67
+Indonesia|Sumatera|Lampung|18.12,Indonesia|Sumatera|Lampung,Tulang Bawang Barat,3,20.32,67.81
+Indonesia|Jawa|Jawa Timur|35.25,Indonesia|Jawa|Jawa Timur,Gresik,3,149.75,77.98
+Indonesia|Jawa|Jawa Timur|35.03,Indonesia|Jawa|Jawa Timur,Trenggalek,3,74.58,71.73
+Indonesia|Jawa|Jawa Barat|32.16,Indonesia|Jawa|Jawa Barat,Bekasi,3,204.09,75.76
+Indonesia|Jawa|Jawa Timur|35.27,Indonesia|Jawa|Jawa Timur,Sampang,3,221.71,64.13
+Indonesia|Sumatera|Sumatera Utara|12.24,Indonesia|Sumatera|Sumatera Utara,Nias Utara,3,30.78,64.64
+Indonesia|Sumatera|Bengkulu|17.01,Indonesia|Sumatera|Bengkulu,Bengkulu Selatan,3,31.89,71.91
+Indonesia|Sumatera|Kepulauan Riau|21.01,Indonesia|Sumatera|Kepulauan Riau,Bintan,3,9.86,75.7
+Indonesia|Sulawesi|Sulawesi Selatan|73.11,Indonesia|Sulawesi|Sulawesi Selatan,Barru,3,14.88,72.36
+Indonesia|Jawa|Jawa Barat|32.08,Indonesia|Jawa|Jawa Barat,Kuningan,3,133.88,70.72
+Indonesia|Sumatera|Aceh|11.75,Indonesia|Sumatera|Aceh,Kota Subulussalam,3,13.8,67.1
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.02,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Lombok Tengah,3,129.74,68.4
+Indonesia|Sulawesi|Sulawesi Selatan|73.02,Indonesia|Sulawesi|Sulawesi Selatan,Bulukumba,3,30.65,71.21
+Indonesia|Jawa|Jawa Tengah|33.08,Indonesia|Jawa|Jawa Tengah,Magelang,3,144.49,71.45
+Indonesia|Jawa|Jawa Timur|35.04,Indonesia|Jawa|Jawa Timur,Tulungagung,3,68.81,74.61
+Indonesia|Jawa|Jawa Tengah|33.04,Indonesia|Jawa|Jawa Tengah,Banjarnegara,3,138.99,69.14
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.04,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Belu,3,33.19,63.83
+Indonesia|Jawa|Jawa Tengah|33.27,Indonesia|Jawa|Jawa Tengah,Pemalang,3,195.57,68.03
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.21,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Malaka,3,29.19,62.06
+Indonesia|Jawa|Jawa Barat|32.18,Indonesia|Jawa|Jawa Barat,Pangandaran,3,36.7,69.38
+Indonesia|Sumatera|Bengkulu|17.09,Indonesia|Sumatera|Bengkulu,Bengkulu Tengah,3,11.01,68.99
+Indonesia|Jawa|Jawa Timur|35.19,Indonesia|Jawa|Jawa Timur,Madiun,3,75.87,72.97
+Indonesia|Jawa|Jawa Timur|35.17,Indonesia|Jawa|Jawa Timur,Jombang,3,117.36,74.6
+Indonesia|Jawa|Jawa Tengah|33.09,Indonesia|Jawa|Jawa Tengah,Boyolali,3,97.48,75.41
+Indonesia|Sulawesi|Sulawesi Selatan|73.01,Indonesia|Sulawesi|Sulawesi Selatan,Kepulauan Selayar,3,16.89,69.2
+Indonesia|Jawa|Jawa Tengah|33.06,Indonesia|Jawa|Jawa Tengah,Purworejo,3,81.28,74.28
+Indonesia|Jawa|Jawa Tengah|33.22,Indonesia|Jawa|Jawa Tengah,Semarang,3,78.35,75.13
+Indonesia|Jawa|Jawa Barat|32.09,Indonesia|Jawa|Jawa Barat,Cirebon,3,249.18,70.95
+Indonesia|Jawa|Jawa Tengah|33.17,Indonesia|Jawa|Jawa Tengah,Rembang,3,91.97,71.89
+Indonesia|Jawa|Banten|36.03,Indonesia|Jawa|Banten,Tangerang,3,276.33,73.43
+Indonesia|Jawa|Jawa Tengah|33.07,Indonesia|Jawa|Jawa Tengah,Wonosobo,3,123.7,69.37
+Indonesia|Jawa|Jawa Tengah|33.20,Indonesia|Jawa|Jawa Tengah,Jepara,3,86.75,73.85
+Indonesia|Jawa|Jawa Tengah|33.24,Indonesia|Jawa|Jawa Tengah,Kendal,3,92.64,73.86
+Indonesia|Jawa|Jawa Timur|35.16,Indonesia|Jawa|Jawa Timur,Mojokerto,3,112.86,75.53
+Indonesia|Jawa|Jawa Tengah|33.14,Indonesia|Jawa|Jawa Tengah,Sragen,3,114.62,75.1
+Indonesia|Jawa|Jawa Barat|32.14,Indonesia|Jawa|Jawa Barat,Purwakarta,3,81.54,72.09
+Indonesia|Sulawesi|Sulawesi Utara|71.04,Indonesia|Sulawesi|Sulawesi Utara,Kepulauan Talaud,3,7.97,71.14
+Indonesia|Jawa|Jawa Tengah|33.28,Indonesia|Jawa|Jawa Tengah,Tegal,3,105.03,70.23
+Indonesia|Sulawesi|Sulawesi Utara|71.06,Indonesia|Sulawesi|Sulawesi Utara,Minahasa Utara,3,13.66,75.31
+Indonesia|Jawa|Jawa Tengah|33.21,Indonesia|Jawa|Jawa Tengah,Demak,3,143.26,74.07
+Indonesia|Maluku|Maluku|81.02,Indonesia|Maluku|Maluku,Maluku Tenggara,3,22.02,67.57
+Indonesia|Sumatera|Aceh|11.18,Indonesia|Sumatera|Aceh,Pidie Jaya,3,30.74,74.8
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.01,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Lombok Barat,3,102.71,70.15
+Indonesia|Kalimantan|Kalimantan Selatan|63.08,Indonesia|Kalimantan|Kalimantan Selatan,Hulu Sungai Utara,3,15.02,67.66
+Indonesia|Sulawesi|Sulawesi Barat|76.05,Indonesia|Sulawesi|Sulawesi Barat,Majene,3,25.8,68.62
+Indonesia|Jawa|Jawa Tengah|33.26,Indonesia|Jawa|Jawa Tengah,Pekalongan,3,87.93,71.4
+Indonesia|Sumatera|Sumatera Utara|12.19,Indonesia|Sumatera|Sumatera Utara,Batu Bara,3,49.18,70.31
+Indonesia|Sumatera|Kepulauan Riau|21.71,Indonesia|Sumatera|Kepulauan Riau,Kota Batam,3,83.09,82.11
+Indonesia|Jawa|Jawa Tengah|33.23,Indonesia|Jawa|Jawa Tengah,Temanggung,3,72.96,71.33
+Indonesia|Sulawesi|Sulawesi Selatan|73.07,Indonesia|Sulawesi|Sulawesi Selatan,Sinjai,3,21.14,68.92
+Indonesia|Jawa|Jawa Tengah|33.25,Indonesia|Jawa|Jawa Tengah,Batang,3,69.97,70.2
+Indonesia|Bali & Nusa Tenggara|Bali|51.02,Indonesia|Bali & Nusa Tenggara|Bali,Tabanan,3,21.42,77.43
+Indonesia|Sulawesi|Sulawesi Utara|71.10,Indonesia|Sulawesi|Sulawesi Utara,Bolaang Mongondow Timur,3,4.32,67.95
+Indonesia|Bali & Nusa Tenggara|Bali|51.01,Indonesia|Bali & Nusa Tenggara|Bali,Jembrana,3,14.12,74.04
+Indonesia|Bali & Nusa Tenggara|Bali|51.07,Indonesia|Bali & Nusa Tenggara|Bali,Karangasem,3,27.83,68.91
+Indonesia|Papua|Papua|91.71,Indonesia|Papua|Papua,Kota Jayapura,3,32.79,81.14
+Indonesia|Sumatera|Sumatera Utara|12.04,Indonesia|Sumatera|Sumatera Utara,Nias,3,21.99,64.56
+Indonesia|Sulawesi|Sulawesi Tenggara|74.14,Indonesia|Sulawesi|Sulawesi Tenggara,Buton Tengah,3,14.46,65.83
+Indonesia|Sulawesi|Sulawesi Selatan|73.10,Indonesia|Sulawesi|Sulawesi Selatan,Pangkajene dan Kepulauan,3,46.06,70.59
+Indonesia|Jawa|Jawa Tengah|33.03,Indonesia|Jawa|Jawa Tengah,Purbalingga,3,143.41,70.24
+Indonesia|Sumatera|Kepulauan Riau|21.02,Indonesia|Sumatera|Kepulauan Riau,Karimun,3,14.33,73.51
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.08,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Lombok Utara,3,60.13,66.62
+Indonesia|Jawa|Jawa Tengah|33.13,Indonesia|Jawa|Jawa Tengah,Karanganyar,3,88.64,77.31
+Indonesia|Jawa|Jawa Timur|35.28,Indonesia|Jawa|Jawa Timur,Pamekasan,3,126.43,67.96
+Indonesia|Sulawesi|Sulawesi Selatan|73.04,Indonesia|Sulawesi|Sulawesi Selatan,Jeneponto,3,48.32,65.9
+Indonesia|Sulawesi|Sulawesi Tenggara|74.13,Indonesia|Sulawesi|Sulawesi Tenggara,Muna Barat,3,11.81,67.13
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.12,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Sumba Barat,3,37.15,65.22
+Indonesia|Sulawesi|Sulawesi Utara|71.07,Indonesia|Sulawesi|Sulawesi Utara,Minahasa Tenggara,3,12.7,71.93
+Indonesia|Sumatera|Bengkulu|17.08,Indonesia|Sumatera|Bengkulu,Kepahiang,3,20.32,69.6
+Indonesia|Jawa|Jawa Timur|35.15,Indonesia|Jawa|Jawa Timur,Sidoarjo,3,119.15,81.55
+Indonesia|Kalimantan|Kalimantan Timur|64.72,Indonesia|Kalimantan|Kalimantan Timur,Kota Samarinda,3,41.89,82.32
+Indonesia|Jawa|Jawa Timur|35.20,Indonesia|Jawa|Jawa Timur,Magetan,3,62.49,75.41
+Indonesia|Jawa|Jawa Tengah|33.10,Indonesia|Jawa|Jawa Tengah,Klaten,3,144.43,77.59
+Indonesia|Sulawesi|Sulawesi Tenggara|74.12,Indonesia|Sulawesi|Sulawesi Tenggara,Konawe Kepulauan,3,5.44,67.32
+Indonesia|Sumatera|Sumatera Barat|13.71,Indonesia|Sumatera|Sumatera Barat,Kota Padang,3,41.97,83.58
+Indonesia|Sumatera|Riau|14.71,Indonesia|Sumatera|Riau,Kota Pekanbaru,3,37.67,82.38
+Indonesia|Papua|Papua|91.19,Indonesia|Papua|Papua,Supiori,3,7.94,64.61
+Indonesia|Sumatera|Sumatera Selatan|16.72,Indonesia|Sumatera|Sumatera Selatan,Kota Pagar Alam,3,12.73,70.45
+Indonesia|Sumatera|Lampung|18.10,Indonesia|Sumatera|Lampung,Pringsewu,3,37.6,71.61
+Indonesia|Sulawesi|Sulawesi Tengah|72.11,Indonesia|Sulawesi|Sulawesi Tengah,Banggai Laut,3,11.27,66.93
+Indonesia|Jawa|Daerah Istimewa Yogyakarta|34.01,Indonesia|Jawa|Daerah Istimewa Yogyakarta,Kulon Progo,3,70.74,75.79
+Indonesia|Jawa|Daerah Istimewa Yogyakarta|34.04,Indonesia|Jawa|Daerah Istimewa Yogyakarta,Sleman,3,97.5,84.77
+Indonesia|Kalimantan|Kalimantan Barat|61.72,Indonesia|Kalimantan|Kalimantan Barat,Kota Singkawang,3,11.06,73.39
+Indonesia|Sulawesi|Sulawesi Utara|71.03,Indonesia|Sulawesi|Sulawesi Utara,Kepulauan Sangihe,3,14.6,72.22
+Indonesia|Sulawesi|Sulawesi Selatan|73.05,Indonesia|Sulawesi|Sulawesi Selatan,Takalar,3,25.01,68.9
+Indonesia|Bali & Nusa Tenggara|Bali|51.06,Indonesia|Bali & Nusa Tenggara|Bali,Bangli,3,12.24,70.79
+Indonesia|Jawa|Daerah Istimewa Yogyakarta|34.02,Indonesia|Jawa|Daerah Istimewa Yogyakarta,Bantul,3,128.51,81.39
+Indonesia|Kalimantan|Kalimantan Timur|64.71,Indonesia|Kalimantan|Kalimantan Timur,Kota Balikpapan,3,14.99,81.66
+Indonesia|Sulawesi|Sulawesi Tenggara|74.15,Indonesia|Sulawesi|Sulawesi Tenggara,Buton Selatan,3,11.88,66.15
+Indonesia|Jawa|Jawa Tengah|33.11,Indonesia|Jawa|Jawa Tengah,Sukoharjo,3,68.79,78.65
+Indonesia|Sumatera|Kepulauan Riau|21.05,Indonesia|Sumatera|Kepulauan Riau,Kepulauan Anambas,3,3.08,70.26
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.20,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Sabu Raijua,3,30.43,58.89
+Indonesia|Jawa|Jawa Tengah|33.19,Indonesia|Jawa|Jawa Tengah,Kudus,3,65.16,76.71
+Indonesia|Sumatera|Sumatera Selatan|16.74,Indonesia|Sumatera|Sumatera Selatan,Kota Prabumulih,3,22.33,76.46
+Indonesia|Sumatera|Sumatera Utara|12.25,Indonesia|Sumatera|Sumatera Utara,Nias Barat,3,18.86,63.7
+Indonesia|Sulawesi|Sulawesi Tenggara|74.07,Indonesia|Sulawesi|Sulawesi Tenggara,Wakatobi,3,15.34,71.43
+Indonesia|Bali & Nusa Tenggara|Bali|51.03,Indonesia|Bali & Nusa Tenggara|Bali,Badung,3,17.01,83.08
+Indonesia|Sulawesi|Sulawesi Selatan|73.03,Indonesia|Sulawesi|Sulawesi Selatan,Bantaeng,3,17.49,70.57
+Indonesia|Jawa|Jawa Tengah|33.74,Indonesia|Jawa|Jawa Tengah,Kota Semarang,3,80.53,84.43
+Indonesia|Bali & Nusa Tenggara|Bali|51.04,Indonesia|Bali & Nusa Tenggara|Bali,Gianyar,3,23.76,79.24
+Indonesia|Sumatera|Sumatera Selatan|16.73,Indonesia|Sumatera|Sumatera Selatan,Kota Lubuk Linggau,3,31.02,76.19
+Indonesia|Sumatera|Jambi|15.72,Indonesia|Sumatera|Jambi,Kota Sungai Penuh,3,2.66,76.65
+Indonesia|Sulawesi|Sulawesi Tengah|72.71,Indonesia|Sulawesi|Sulawesi Tengah,Kota Palu,3,26.83,82.52
+Indonesia|Sumatera|Sumatera Selatan|16.71,Indonesia|Sumatera|Sumatera Selatan,Kota Palembang,3,179.45,80.02
+Indonesia|Jawa|Jawa Timur|35.78,Indonesia|Jawa|Jawa Timur,Kota Surabaya,3,136.37,83.45
+Indonesia|Sulawesi|Sulawesi Utara|71.72,Indonesia|Sulawesi|Sulawesi Utara,Kota Bitung,3,15.0,75.11
+Indonesia|Kalimantan|Kalimantan Selatan|63.72,Indonesia|Kalimantan|Kalimantan Selatan,Kota Banjarbaru,3,11.18,80.11
+Indonesia|Bali & Nusa Tenggara|Bali|51.05,Indonesia|Bali & Nusa Tenggara|Bali,Klungkung,3,10.22,73.11
+Indonesia|Sulawesi|Sulawesi Tenggara|74.72,Indonesia|Sulawesi|Sulawesi Tenggara,Kota Bau Bau,3,13.29,77.52
+Indonesia|Sumatera|Sumatera Utara|12.78,Indonesia|Sumatera|Sumatera Utara,Kota Gunungsitoli,3,22.03,70.68
+Indonesia|Sumatera|Sumatera Utara|12.71,Indonesia|Sumatera|Sumatera Utara,Kota Medan,3,187.28,82.19
+Indonesia|Sulawesi|Sulawesi Selatan|73.73,Indonesia|Sulawesi|Sulawesi Selatan,Kota Palopo,3,14.85,79.45
+Indonesia|Jawa|Banten|36.73,Indonesia|Jawa|Banten,Kota Serang,3,44.99,73.48
+Indonesia|Sulawesi|Sulawesi Tenggara|74.71,Indonesia|Sulawesi|Sulawesi Tenggara,Kota Kendari,3,19.24,84.85
+Indonesia|Kalimantan|Kalimantan Utara|65.71,Indonesia|Kalimantan|Kalimantan Utara,Kota Tarakan,3,16.49,77.53
+Indonesia|Maluku|Maluku|81.71,Indonesia|Maluku|Maluku,Kota Ambon,3,25.87,82.06
+Indonesia|Sumatera|Sumatera Barat|13.73,Indonesia|Sumatera|Sumatera Barat,Kota Sawahlunto,3,1.47,74.42
+Indonesia|Sumatera|Aceh|11.74,Indonesia|Sumatera|Aceh,Kota Langsa,3,19.5,78.36
+Indonesia|Jawa|Jawa Barat|32.75,Indonesia|Jawa|Jawa Barat,Kota Bekasi,3,129.4,83.03
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.72,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Kota Bima,3,16.53,77.36
+Indonesia|Maluku|Maluku|81.72,Indonesia|Maluku|Maluku,Kota Tual,3,16.41,69.43
+Indonesia|Sulawesi|Sulawesi Utara|71.09,Indonesia|Sulawesi|Sulawesi Utara,Kep. Siau Tagulandang Biaro,3,5.92,69.57
+Indonesia|Jawa|Jawa Barat|32.76,Indonesia|Jawa|Jawa Barat,Kota Depok,3,61.95,82.38
+Indonesia|Papua|Papua Barat Daya|92.71,Indonesia|Papua|Papua Barat Daya,Kota Sorong,3,41.61,79.65
+Indonesia|Jawa|Jawa Timur|35.79,Indonesia|Jawa|Jawa Timur,Kota Batu,3,7.1,78.18
+Indonesia|Jawa|DKI Jakarta|31.75,Indonesia|Jawa|DKI Jakarta,Kota Adm. Jakarta Timur,3,124.22,84.13
+Indonesia|Jawa|Jawa Barat|32.78,Indonesia|Jawa|Jawa Barat,Kota Tasikmalaya,3,79.37,74.47
+Indonesia|Sumatera|Lampung|18.71,Indonesia|Sumatera|Lampung,Kota Bandar Lampung,3,87.08,78.56
+Indonesia|Jawa|Banten|36.71,Indonesia|Jawa|Banten,Kota Tangerang,3,137.7,79.46
+Indonesia|Sulawesi|Sulawesi Selatan|73.71,Indonesia|Sulawesi|Sulawesi Selatan,Kota Makassar,3,80.32,83.52
+Indonesia|Sumatera|Jambi|15.71,Indonesia|Sumatera|Jambi,Kota Jambi,3,50.09,80.15
+Indonesia|Sulawesi|Sulawesi Utara|71.73,Indonesia|Sulawesi|Sulawesi Utara,Kota Tomohon,3,6.24,78.1
+Indonesia|Jawa|Jawa Barat|32.73,Indonesia|Jawa|Jawa Barat,Kota Bandung,3,102.8,83.04
+Indonesia|Jawa|Banten|36.74,Indonesia|Jawa|Banten,Kota Tangerang Selatan,3,46.31,82.28
+Indonesia|Jawa|Banten|36.72,Indonesia|Jawa|Banten,Kota Cilegon,3,18.2,74.54
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur|53.71,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Timur,Kota Kupang,3,41.2,80.62
+Indonesia|Kalimantan|Kalimantan Timur|64.74,Indonesia|Kalimantan|Kalimantan Timur,Kota Bontang,3,7.71,81.56
+Indonesia|Sumatera|Sumatera Utara|12.77,Indonesia|Sumatera|Sumatera Utara,Kota Padang Sidempuan,3,16.15,76.44
+Indonesia|Maluku|Maluku Utara|82.71,Indonesia|Maluku|Maluku Utara,Kota Ternate,3,8.36,81.35
+Indonesia|Sumatera|Bengkulu|17.71,Indonesia|Sumatera|Bengkulu,Kota Bengkulu,3,56.1,81.45
+Indonesia|Jawa|DKI Jakarta|31.74,Indonesia|Jawa|DKI Jakarta,Kota Adm. Jakarta Selatan,3,71.9,86.07
+Indonesia|Sulawesi|Sulawesi Utara|71.71,Indonesia|Sulawesi|Sulawesi Utara,Kota Manado,3,25.17,80.14
+Indonesia|Jawa|DKI Jakarta|31.72,Indonesia|Jawa|DKI Jakarta,Kota Adm. Jakarta Utara,3,125.98,81.11
+Indonesia|Sumatera|Kepulauan Riau|21.72,Indonesia|Sumatera|Kepulauan Riau,Kota Tanjung Pinang,3,17.67,80.23
+Indonesia|Jawa|Jawa Barat|32.79,Indonesia|Jawa|Jawa Barat,Kota Banjar,3,11.66,73.08
+Indonesia|Sumatera|Aceh|11.73,Indonesia|Sumatera|Aceh,Kota Lhokseumawe,3,23.1,78.92
+Indonesia|Jawa|DKI Jakarta|31.73,Indonesia|Jawa|DKI Jakarta,Kota Adm. Jakarta Barat,3,109.49,83.02
+Indonesia|Sumatera|Aceh|11.72,Indonesia|Sumatera|Aceh,Kota Sabang,3,5.14,77.52
+Indonesia|Bali & Nusa Tenggara|Bali|51.71,Indonesia|Bali & Nusa Tenggara|Bali,Kota Denpasar,3,27.69,84.73
+Indonesia|Kalimantan|Kalimantan Barat|61.71,Indonesia|Kalimantan|Kalimantan Barat,Kota Pontianak,3,29.92,81.03
+Indonesia|Jawa|Jawa Barat|32.71,Indonesia|Jawa|Jawa Barat,Kota Bogor,3,74.95,77.85
+Indonesia|Jawa|Jawa Timur|35.73,Indonesia|Jawa|Jawa Timur,Kota Malang,3,37.78,83.39
+Indonesia|Sulawesi|Sulawesi Utara|71.74,Indonesia|Sulawesi|Sulawesi Utara,Kota Kotamobagu,3,6.82,74.43
+Indonesia|Sumatera|Kepulauan Bangka Belitung|19.71,Indonesia|Sumatera|Kepulauan Bangka Belitung,Kota Pangkal Pinang,3,9.27,79.93
+Indonesia|Kalimantan|Kalimantan Selatan|63.71,Indonesia|Kalimantan|Kalimantan Selatan,Kota Banjarmasin,3,33.47,78.5
+Indonesia|Sumatera|Sumatera Utara|12.75,Indonesia|Sumatera|Sumatera Utara,Kota Binjai,3,13.85,77.6
+Indonesia|Sulawesi|Sulawesi Selatan|73.72,Indonesia|Sulawesi|Sulawesi Selatan,Kota Parepare,3,7.98,79.03
+Indonesia|Sumatera|Sumatera Utara|12.72,Indonesia|Sumatera|Sumatera Utara,Kota Pematangsiantar,3,18.96,80.46
+Indonesia|Sumatera|Sumatera Barat|13.76,Indonesia|Sumatera|Sumatera Barat,Kota Payakumbuh,3,7.88,79.97
+Indonesia|Sumatera|Lampung|18.72,Indonesia|Sumatera|Lampung,Kota Metro,3,12.8,78.36
+Indonesia|Sulawesi|Gorontalo|75.71,Indonesia|Sulawesi|Gorontalo,Kota Gorontalo,3,12.62,78.64
+Indonesia|Jawa|Jawa Timur|35.71,Indonesia|Jawa|Jawa Timur,Kota Kediri,3,21.03,80.44
+Indonesia|Sumatera|Sumatera Barat|13.77,Indonesia|Sumatera|Sumatera Barat,Kota Pariaman,3,3.91,78.13
+Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat|52.71,Indonesia|Bali & Nusa Tenggara|Nusa Tenggara Barat,Kota Mataram,3,46.21,80.09
+Indonesia|Sumatera|Sumatera Utara|12.74,Indonesia|Sumatera|Sumatera Utara,Kota Tanjung Balai,3,22.45,70.59
+Indonesia|Sumatera|Sumatera Barat|13.72,Indonesia|Sumatera|Sumatera Barat,Kota Solok,3,2.35,79.58
+Indonesia|Sumatera|Aceh|11.71,Indonesia|Sumatera|Aceh,Kota Banda Aceh,3,19.94,86.69
+Indonesia|Jawa|Jawa Tengah|33.73,Indonesia|Jawa|Jawa Tengah,Kota Salatiga,3,9.41,84.99
+Indonesia|Jawa|Jawa Timur|35.74,Indonesia|Jawa|Jawa Timur,Kota Probolinggo,3,15.86,75.43
+Indonesia|Jawa|Jawa Barat|32.72,Indonesia|Jawa|Jawa Barat,Kota Sukabumi,3,24.96,76.32
+Indonesia|Jawa|DKI Jakarta|31.71,Indonesia|Jawa|DKI Jakarta,Kota Adm. Jakarta Pusat,3,42.78,82.53
+Indonesia|Jawa|Jawa Tengah|33.72,Indonesia|Jawa|Jawa Tengah,Kota Surakarta,3,43.89,83.54
+Indonesia|Jawa|Jawa Tengah|33.75,Indonesia|Jawa|Jawa Tengah,Kota Pekalongan,3,21.36,76.71
+Indonesia|Jawa|Jawa Barat|32.77,Indonesia|Jawa|Jawa Barat,Kota Cimahi,3,28.56,79.46
+Indonesia|Jawa|Jawa Timur|35.75,Indonesia|Jawa|Jawa Timur,Kota Pasuruan,3,13.56,77.17
+Indonesia|Jawa|Jawa Barat|32.74,Indonesia|Jawa|Jawa Barat,Kota Cirebon,3,29.49,76.46
+Indonesia|Jawa|Jawa Tengah|33.76,Indonesia|Jawa|Jawa Tengah,Kota Tegal,3,19.22,77.02
+Indonesia|Sumatera|Sumatera Utara|12.76,Indonesia|Sumatera|Sumatera Utara,Kota Tebing Tinggi,3,16.36,76.98
+Indonesia|Jawa|Jawa Timur|35.77,Indonesia|Jawa|Jawa Timur,Kota Madiun,3,8.46,82.71
+Indonesia|Jawa|Jawa Timur|35.72,Indonesia|Jawa|Jawa Timur,Kota Blitar,3,10.61,80.63
+Indonesia|Jawa|Daerah Istimewa Yogyakarta|34.71,Indonesia|Jawa|Daerah Istimewa Yogyakarta,Kota Yogyakarta,3,29.48,88.28
+Indonesia|Sumatera|Sumatera Barat|13.75,Indonesia|Sumatera|Sumatera Barat,Kota Bukittinggi,3,5.78,81.78
+Indonesia|Sumatera|Sumatera Barat|13.74,Indonesia|Sumatera|Sumatera Barat,Kota Padang Panjang,3,2.99,79.26
+Indonesia|Jawa|Jawa Timur|35.76,Indonesia|Jawa|Jawa Timur,Kota Mojokerto,3,7.65,80.07
+Indonesia|Jawa|Jawa Tengah|33.71,Indonesia|Jawa|Jawa Tengah,Kota Magelang,3,7.45,81.17
+Indonesia|Sumatera|Sumatera Utara|12.73,Indonesia|Sumatera|Sumatera Utara,Kota Sibolga,3,10.02,75.2
+Indonesia|Jawa|DKI Jakarta|31.01,Indonesia|Jawa|DKI Jakarta,Adm. Kep. Seribu,3,3.47,73.39

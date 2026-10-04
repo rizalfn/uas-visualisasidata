@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kesejahteraan dan Ketimpangan Wilayah Indonesia 2023 | Visualisasi Data BPS</title>
+<meta name="description" content="Dasbor visualisasi data BPS 2023: profil kesejahteraan provinsi (PCA, klaster), peta IPM kabupaten/kota, dan hierarki penduduk miskin.">
+<meta name="theme-color" content="#0a2540">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="app/style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap hero-grid">
+   <div class="hero-text">
+    <p class="eyebrow">Proyek visualisasi data BPS Indonesia, tahun data 2023</p>
+    <h1>Kesejahteraan dan Ketimpangan Wilayah Indonesia</h1>
+    <p class="lead">Provinsi mana yang berprofil kesejahteraan serupa, seberapa besar kesenjangan antarwilayah di dalam satu provinsi, dan wilayah mana yang menanggung penduduk miskin terbanyak?</p>
+    <nav class="toc" aria-label="Navigasi bagian">
+      <a href="#multivariat">1 · Profil provinsi</a>
+      <a href="#peta">2 · Peta kab/kota</a>
+      <a href="#hierarki">3 · Hierarki</a>
+      <a href="#insight">Temuan</a>
+      <a href="#metodologi">Metodologi</a>
+      <a href="#sumber">Sumber</a>
+    </nav>
+   </div>
+   <figure class="hero-fig" aria-labelledby="hero-fig-title">
+    <figcaption id="hero-fig-title">Sebaran IPM 514 kabupaten/kota, 2023</figcaption>
+    <div id="hero-strip" role="img" aria-label="Diagram batang 514 kabupaten/kota diurutkan dari IPM terendah ke tertinggi"></div>
+    <div id="hero-legend" class="hero-legend"></div>
+   </figure>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="banner" class="banner" hidden></div>
+
+  <section class="kpis" id="kpi" aria-label="Ringkasan indikator"></section>
+
+  <section class="filters" aria-label="Filter global">
+    <div class="filter-row">
+      <label>Pulau
+        <select id="f-pulau"><option value="">Semua</option></select>
+      </label>
+      <label>Klaster
+        <select id="f-klaster"><option value="">Semua</option></select>
+      </label>
+      <button id="btn-reset" type="button">Atur ulang pilihan</button>
+    </div>
+    <p id="sel-info" class="sel-info" aria-live="polite">Belum ada provinsi dipilih. Pilih dengan kotak/lasso pada grafik PCA, garis pada sumbu paralel, baris heatmap, atau klik wilayah di peta. Semua tampilan saling terhubung.</p>
+  </section>
+
+  <!-- ===== 1. MULTIVARIAT ===== -->
+  <section id="multivariat">
+    <h2>1 · Profil kesejahteraan 34 provinsi</h2>
+    <p class="finding" id="find-multivariat"></p>
+    <p class="sect-desc">Delapan indikator numerik direduksi dengan PCA, lalu dikelompokkan (k-means). Tiga tampilan di bawah memperlihatkan data yang sama dari sudut berbeda dan saling terhubung (brushing &amp; linking).</p>
+
+    <div class="grid two">
+      <article class="card">
+        <h3>PCA biplot: kemiripan profil antarprovinsi</h3>
+        <p class="how">Titik berdekatan = profil mirip. Warna = klaster, bentuk = pulau. Seret (kotak/lasso) untuk memilih provinsi. Panah = arah naiknya tiap indikator.</p>
+        <div class="legends">
+          <div id="leg-klaster" class="chips" aria-label="Legenda klaster"></div>
+          <div id="leg-pulau" class="chips" aria-label="Legenda pulau"></div>
+        </div>
+        <label class="toggle"><input type="checkbox" id="t-arrows" checked> Tampilkan panah variabel</label>
+        <div id="pca" class="plot" style="height:480px" role="img" aria-label="Biplot PCA 34 provinsi"></div>
+        <p class="cap" id="cap-pca"></p>
+      </article>
+
+      <article class="card">
+        <h3>Heatmap berklaster: indikator yang bergerak bersama</h3>
+        <p class="how">Baris dan kolom diurutkan menurut kemiripan (pengelompokan hierarkis). Biru = di bawah rata-rata, jingga = di atas rata-rata (skor-z). Klik baris untuk memilih provinsi.</p>
+        <div id="heat" class="plot" style="height:700px" role="img" aria-label="Heatmap berklaster skor-z delapan indikator"></div>
+        <p class="cap" id="cap-heat"></p>
+      </article>
+    </div>
+
+    <article class="card">
+      <h3>Koordinat paralel: profil delapan indikator per klaster</h3>
+      <p class="how">Satu garis = satu provinsi, tiap sumbu memakai skala minimum–maksimum indikatornya (nilai asli ditampilkan pada sumbu). Seret pada sebuah sumbu untuk menyaring rentang nilai.</p>
+      <div class="scroll-x"><div id="par" class="plot" style="height:430px;min-width:900px" role="img" aria-label="Koordinat paralel delapan indikator"></div></div>
+      <p class="cap" id="cap-par"></p>
+    </article>
+  </section>
+
+  <!-- ===== 2. PETA ===== -->
+  <section id="peta">
+    <h2>2 · IPM 514 kabupaten/kota: peta dan kesenjangan antarwilayah</h2>
+    <p class="finding" id="find-peta"></p>
+    <p class="sect-desc">IPM adalah salah satu pendekatan untuk melihat kesejahteraan (pembangunan manusia: kesehatan, pendidikan, dan standar hidup), bukan ukuran kesejahteraan seutuhnya. Warna menunjukkan kelas IPM (indeks, bukan angka absolut). Lingkaran menunjukkan jumlah penduduk miskin (angka absolut) sehingga tidak tercampur dengan warna. Klik wilayah untuk memilih provinsinya di semua tampilan.</p>
+    <article class="card">
+      <h3>Choropleth IPM dan simbol proporsional penduduk miskin</h3>
+      <div class="layers" role="group" aria-label="Kontrol layer">
+        <label><input type="checkbox" id="l-ipm" checked> Layer IPM (choropleth)</label>
+        <label><input type="checkbox" id="l-sym" checked> Layer penduduk miskin (lingkaran)</label>
+        <label><input type="checkbox" id="l-sel" checked> Sorot provinsi terpilih</label>
+      </div>
+      <div id="map" class="plot" style="height:520px" role="img" aria-label="Peta IPM kabupaten/kota Indonesia 2023"></div>
+      <div id="map-legend" class="map-legend"></div>
+      <p class="how small">Geser untuk menggeser peta, gulir atau cubit untuk memperbesar, ikon rumah untuk mengatur ulang. Kelas IPM mengikuti ambang BPS (rendah &lt;60, sedang 60–&lt;70, tinggi 70–&lt;80, sangat tinggi ≥80).</p>
+      <p class="cap" id="cap-map"></p>
+    </article>
+  
+    <article class="card" id="card-rentang">
+      <h3>Kesenjangan IPM antar kabupaten/kota di dalam tiap provinsi</h3>
+      <p class="how">Satu batang = jarak antara kab/kota ber-IPM terendah dan tertinggi di provinsi itu; berlian = median. Makin panjang batang, makin besar kesenjangan IPM antarwilayah di provinsi itu. Ini bukan ukuran ketimpangan antarpenduduk; ketimpangan pengeluaran penduduk diukur dengan Gini ratio (bagian 1). Klik batang untuk memilih provinsinya di semua tampilan.</p>
+      <div id="range" class="plot" style="height:820px" role="img" aria-label="Rentang IPM kabupaten/kota di dalam tiap provinsi"></div>
+      <p class="cap" id="cap-range"></p>
+    </article>
+  </section>
+
+  <!-- ===== 3. HIERARKI ===== -->
+  <section id="hierarki">
+    <h2>3 · Hierarki: Indonesia → pulau → provinsi → kabupaten/kota</h2>
+    <p class="finding" id="find-hierarki"></p>
+    <p class="sect-desc">Luas = jumlah penduduk miskin (ribu jiwa). Warna = kelas IPM (dua variabel berbeda). Klik sebuah blok untuk menyelam ke dalamnya; pakai tombol panah kembali (←) untuk naik satu tingkat.</p>
+    <div class="grid two">
+      <article class="card">
+        <h3>Treemap</h3>
+        <div class="posisi-row"><button id="btn-tree-back" class="btn-back" type="button" aria-label="Kembali satu tingkat" title="Kembali satu tingkat" disabled><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M13 8H3m5-5L3 8l5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><p class="posisi">Posisi: <span id="bc-tree">Indonesia</span></p></div>
+        <p class="hint" id="hint-tree">Klik sebuah blok untuk melihat isinya, misalnya Jawa.</p>
+        <div id="tree" class="plot" style="height:520px" role="img" aria-label="Treemap penduduk miskin menurut pulau, provinsi, kabupaten/kota"></div>
+        <p class="cap" id="cap-tree"></p>
+      </article>
+      <article class="card">
+        <h3>Sunburst</h3>
+        <div class="posisi-row"><button id="btn-sun-back" class="btn-back" type="button" aria-label="Kembali satu tingkat" title="Kembali satu tingkat" disabled><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M13 8H3m5-5L3 8l5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><p class="posisi">Posisi: <span id="bc-sun">Indonesia</span></p></div>
+        <p class="hint" id="hint-sun">Klik sebuah blok untuk melihat isinya, misalnya Jawa.</p>
+        <div id="sun" class="plot" style="height:520px" role="img" aria-label="Sunburst penduduk miskin menurut pulau, provinsi, kabupaten/kota"></div>
+        <p class="cap" id="cap-sun"></p>
+      </article>
+    </div>
+    <div id="hier-legend" class="map-legend"></div>
+  </section>
+
+  <!-- ===== TEMUAN ===== -->
+  <section id="insight">
+    <h2>Temuan utama</h2>
+    <p class="sect-desc">Ringkasan deskriptif yang dihitung langsung dari data pada halaman ini. Interpretasi lengkap dan batasannya ada di makalah; bagian ini tidak menyimpulkan sebab-akibat.</p>
+    <div id="insights" class="grid insights"></div>
+  </section>
+
+  <!-- ===== METODOLOGI ===== -->
+  <section id="metodologi">
+    <h2>Metodologi singkat</h2>
+    <div id="method" class="card prose"></div>
+  </section>
+
+  <!-- ===== SUMBER ===== -->
+  <section id="sumber">
+    <h2>Sumber data</h2>
+    <div class="card prose">
+      <div class="table-wrap"><table id="src-table"></table></div>
+      <p class="small">Semua sumber BPS diakses pada 2 Oktober 2026. Batas wilayah adalah data pendukung non-BPS. Tabel BPS tidak memuat kode wilayah, jadi tabel dicocokkan lewat nama wilayah ke berkas batas wilayah, yang membawa kode; rincian pembersihan data ada di <a href="data/processed/data_issues.md">data_issues.md</a>.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Kode dan data olahan: lihat repositori proyek (README). Seluruh angka bersumber dari BPS Indonesia, tahun data 2023.</p>
+  </div>
+</footer>
+
+<aside id="sel-panel" class="sel-panel" hidden aria-label="Ringkasan provinsi terpilih">
+  <div class="sp-head">
+    <button type="button" id="sp-toggle" class="sp-toggle" aria-expanded="true"><span id="sp-title"></span><svg class="sp-chev" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M3 5l4 4 4-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <button type="button" id="sp-close" class="sp-close" aria-label="Hapus pilihan" title="Hapus pilihan">×</button>
+  </div>
+  <div id="sp-body" class="sp-body"></div>
+</aside>
+
+<script src="app/vendor/plotly.min.js"></script>
+<script src="app/app.js"></script>
+</body>
+</html>
