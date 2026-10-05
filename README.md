@@ -5,7 +5,7 @@ Aplikasi web interaktif untuk mengeksplorasi kondisi kesejahteraan dan ketimpang
 ## Demo
 
 **Aplikasi web:**  
-`https://rizalfn.github.io/uas-visualisasidata/bps-kesejahteraan-wilayah/`
+`https://rizalfn.github.io/uas-visualisasidata/`
 
 
 ## Tujuan
