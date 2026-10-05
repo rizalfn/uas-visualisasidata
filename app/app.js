@@ -559,7 +559,7 @@ function drawSources() {
   ];
   $('src-table').innerHTML = `<thead><tr><th>Data</th><th>Tingkat</th><th>Periode</th><th>Satuan</th><th>Tabel/publikasi BPS</th></tr></thead><tbody>` +
     rows.map(r => `<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${link(r[4])}${r[4] === 'pub' ? ' (Lampiran 2; UHH, HLS, RLS hlm. 138)' : ''}</td></tr>`).join('') +
-    `<tr><td>Batas wilayah kab/kota</td><td>kab/kota</td><td>–</td><td>poligon</td><td>Lapak GIS (non-BPS, data pendukung)</td></tr></tbody>`;
+    `<tr><td>Batas wilayah kab/kota</td><td>kab/kota</td><td>2022</td><td>poligon</td><td>Lapak GIS (non-BPS, data pendukung)</td></tr></tbody>`;
 }
 
 /* ---------- 6. INISIALISASI ---------- */
