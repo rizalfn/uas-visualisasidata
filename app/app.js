@@ -11,10 +11,9 @@ const TAHUN = 2023;
 const AKSES = '2 Oktober 2026';
 const IPM_NASIONAL = 74.39;   // IPM Indonesia 2023, BPS: Publikasi Indeks Pembangunan Manusia 2023
 
-// Palet ramah buta warna: kategori (klaster), biru-teal (berurutan), biru-jingga (divergen)
+// Palet ramah buta warna: Okabe-Ito (kategori), biru-teal (berurutan), biru-jingga (divergen)
 const PAL = {
-  // Klaster: violet, merah muda, mustard. Sengaja di luar biru-teal (IPM) dan jingga (lingkaran, heatmap) agar warna tidak bermakna ganda. Lolos uji buta warna.
-  klaster: ['#CC79A7', '#6B4FA3', '#9C8B00', '#56B4E9', '#E69F00'],
+  klaster: ['#0072B2', '#009E73', '#CC79A7', '#E69F00', '#56B4E9'],   // Okabe-Ito (kategori)
   ipm: ['#c2e4e6', '#72b8c8', '#2b7fa5', '#0b2f55'],   // berurutan, satu keluarga biru-teal: terang = rendah, gelap = tinggi
   // Treemap dan sunburst: empat warna berbeda (bukan gradasi), urut Rendah, Sedang, Tinggi, Sangat tinggi. Lolos uji buta warna (selisih CVD >= 11).
   ipmHier: ['#D55E00', '#E69F00', '#56B4E9', '#009E73'],
@@ -543,7 +542,7 @@ function drawMethod() {
   <h4>Hierarki</h4>
   <p>Indonesia → pulau → provinsi → kab/kota. Luas = penduduk miskin, warna = kelas IPM (empat warna berbeda agar mudah dibedakan). IPM Indonesia memakai angka nasional BPS (${fmt(IPM_NASIONAL)}); IPM pulau adalah rata-rata sederhana IPM provinsi di pulau itu. Pengelompokan pulau dibuat penulis.</p>
   <h4>Pilihan encoding</h4>
-  <p>Posisi dipakai untuk kedekatan profil (PCA) karena paling akurat dibaca; warna kategorial (violet, merah muda, mustard; dipilih agar berbeda dari palet IPM dan lolos uji buta warna) untuk klaster; bentuk untuk pulau (kategori kedua); palet divergen biru–jingga pada heatmap karena nilai berpusat di rata-rata; luas untuk besaran absolut.</p>
+  <p>Posisi dipakai untuk kedekatan profil (PCA) karena paling akurat dibaca; warna kategorial Okabe-Ito untuk klaster; bentuk untuk pulau (kategori kedua); palet divergen biru–jingga pada heatmap karena nilai berpusat di rata-rata; luas untuk besaran absolut.</p>
   <h4>Perangkat</h4>
   <p>Python (pandas, NumPy, SciPy, scikit-learn, Shapely) untuk pengolahan; HTML statis dan Plotly.js (disertakan di repositori) untuk visualisasi. Tidak memerlukan login atau instalasi.</p>`;
 }
